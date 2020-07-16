@@ -12,6 +12,10 @@ I am currently a junior developer at the NASA Goddard Space Flight Center and AD
 
 This fall, I will be first-year computer science graduate student at the University of Maryland, College Park. I also attended UMD for undergrad. My current involvement in research includes topics in autonomous driving and computer vision, but I'm also excited to explore different research areas this coming school term, including Human-Computer Interaction and topics in Machine Learning. 
 
+My goals for this year are (1) to become more involved in the computer science community around campus, including MCWIC, Hackathons, and research projects, (2) make reading a regular habit, and (3) to keep a good sleep schedule amidst the pandemic. 
+
+In my free time, I enjoy playing ice hockey and esports, learning to crochet, and single-player RPGs, most notably Skyrim and Breath of the Wild. When I was younger, I also played the cello and the piano. For recordings, feel free to check out my SoundCloud profile on the sidebar! 
+
 For those interested in this website layout, it is an open-source template provided by AcademicPages on Github. The repository is linked [here](https://github.com/academicpages/academicpages.github.io).
 
 <!--- 
