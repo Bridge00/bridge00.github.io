@@ -18,7 +18,7 @@ Work experience
 * Summer 2019 - Summer 2020: Intern/Junior Developer
   * NASA Goddard Space Flight Center / ADNET Systems
   * Topic: Extracting information from scientific text & decision making
-  * Supervisor: Professor Hub
+  * Supervisor: Arif Albayrak, William Teng, Mohammad Khayat
 
 * Fall 2018: Undergraduate Research Assistant
   * University of Maryland, College Park
