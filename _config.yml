@@ -85,8 +85,8 @@ author:
   bio              : "Computer Science graduate student"
   location         : "University of Maryland"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            : "lyzheng@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
