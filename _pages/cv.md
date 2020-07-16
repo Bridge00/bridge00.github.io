@@ -32,9 +32,13 @@ Skills
 
 Publications
 ======
-* Accepted to IROS 2020
-  * Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation
+* Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation
+  * Accepted to IROS 2020
   * Shivam Akhauri, Laura Zheng
+
+* Analysis of Machine Learning in Earth Science Using Network Visualization and Natural Language Processing
+  * Presented at AGU Winter Meeting 2019
+  * Laura Zheng, Arif Albayrak, William Teng, Mohammad Khayat, Long Pham
   
 <!--
 Talks

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Zheng"
 title_separator          : "-"
 name                     : &name "Laura Zheng"
-description              : &description "Laura Zheng's Website"
+description              : &description "Computer Science grad student at UMD"
 url                      : https://laurayuzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laurayuzheng/laurayuzheng.github.io"
@@ -102,10 +102,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"https://orcid.org/0000-0001-5447-8972"
+  linkedin         : "laurayuzheng"
+  orcid            : "https://orcid.org/0000-0001-5447-8972"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "amiablelamp"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
