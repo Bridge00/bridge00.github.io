@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Maryland, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Summer 2019 - Summer 2020: Intern/Junior Developer
+  * NASA Goddard Space Flight Center / ADNET Systems
+  * Topic: Extracting information from scientific text & decision making
   * Supervisor: Professor Hub
+
+* Fall 2018: Undergraduate Research Assistant
+  * University of Maryland, College Park
+  * Topic: Systematic Generation of Vehicle Accidents for Autonomous Driving
+  * Supervisor: [Ming Lin](https://www.cs.umd.edu/~lin/)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in Python, Java
+* Basic skills in functional programming: OCaml, Racket
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Accepted to IROS 2020
+  * Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation
+  * Shivam Akhauri, Laura Zheng
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  
+<!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
