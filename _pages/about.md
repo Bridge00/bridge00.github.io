@@ -12,7 +12,7 @@ Hello!! I am a first year computer science PhD student at the University of Mary
 
 My goals for this school year is to make a habit of stepping out of my comfort zone and stay in good health. In my free time, I enjoy playing my piano or cello, as well as video games. As an undergrad, I was also a part of the UMD Women's Ice Hockey team. Once the pandemic settles down, hopefully I can make some space in my schedule to skate again.
 
-[Download CV](files/laura-zheng-resume.pdf)
+[Download CV](files/laura-zheng_cv.pdf)
 
 For those interested in this website layout, it is an open-source template provided by AcademicPages on Github. The repository is linked [here](https://github.com/academicpages/academicpages.github.io).
 
