@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Laura Zheng"
-  avatar           : "headshot.jpg"
+  avatar           : "headshot.png"
   bio              : "1st Year CS Grad Student"
-  location         : "University of Maryland @ College Park"
+  location         : "University of Maryland"
   employer         :
   pubmed           : #""
   googlescholar    : #""
