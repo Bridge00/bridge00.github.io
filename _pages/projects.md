@@ -1,13 +1,11 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "ML Projects"
 ---
-
-Here are a descriptions of ML projects (for research or in class)
-
 
 ## Superresolution
 **Advisors: Dr. Cynthia Rudin and [Dr. Aayush Bansal](http://www.cs.cmu.edu/~aayushb/)**
+
 **Teammate: Jerry Liu**
 
 Currently working on patch-based method for portrait superresolution using representation learning. Will update soon!
@@ -15,7 +13,9 @@ Currently working on patch-based method for portrait superresolution using repre
 
 ## Automating 2D Classification in Cryo-Em Single-Particle Reconstruction Pipeline
 **Advisor: [Dr. Alberto Bartesaghi](http://cryoem.cs.duke.edu/)**
+
 **Teammate: [Jeevan Tewari](https://www.linkedin.com/in/jeevan-tewari/)**
+
 **Course: Duke CS 590: Computational Cryo-EM 3D Imaging**
 
 Research project for final assignment. In the Computational Cryo-EM 3D Imaging pipeline, software programs, such as cisTEM, create classes of images based on the particle orientation and provide class averages. A human picks classes with high-quality averages and the class images are used for reconstruction. I devised an approach using unsupervised representation learning to automate the selection of high-quality images.
@@ -23,6 +23,7 @@ Research project for final assignment. In the Computational Cryo-EM 3D Imaging p
 
 ## Neural Style Transfer
 **Instructor: Dr. Yiran Chen**
+
 **Course: Duke ECE 590: Computer Engineering Methods for Deep Learning**
 
 Final class project where I implemented “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images” by Ulyanov et al. [Link](https://github.com/Bridge00/nst) to my code on Github.
@@ -30,11 +31,13 @@ Final class project where I implemented “Texture Networks: Feed-forward Synthe
 
 ## Neural Network Dimension Reduction with Topological Constraint
 **Advisor: [Dr. Xiuyuan Cheng](https://services.math.duke.edu/~xiuyuanc/)**
+
 **Program: DoMath Summer 2020**
 
 
 ## Interpretable vs Black-box Recidivism Models
 **Advisor: Dr. Cynthia Rudin**
+
 **Teammates: [Caroline Wang](https://carolinewang01.github.io/) and [Bin Han](https://www.linkedin.com/in/bin-han-960703/)**
 
 Processed criminal history data from Broward County, FL and the state of Kentucky. My team then assessed the performance and fairness of various interpretable and black-box algorithms. Our findings show that they perform comparably to each other and we thus advocate against the use of black-box and privatized algorithms in pre-trial risk assessments.
