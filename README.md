@@ -1,5 +1,5 @@
 ---
-permalink: /README/
+permalink: /index/
 title: "About"
 ---
 
