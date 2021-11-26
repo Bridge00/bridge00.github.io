@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "About"
+layout: home
+author_profile: true
 ---
 
 ![](/assets/images/bhrij_linkedin.png) ![](/assets/images/bhrij_duke.png)
