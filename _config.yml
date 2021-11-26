@@ -77,8 +77,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_pages"
-      type: posts
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
