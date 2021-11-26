@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Bhrij Patel"
+  name   : "About"
   avatar : "/assets/images/bhrij_linkedin.png"
   bio    : "Duke undergraduate ML researcher. Currently applying to PhD programs."
   links:
@@ -65,7 +65,7 @@ author:
       url: "https://github.com/Bridge00"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/bhrijpatel"
+      url: "https://www.linkedin.com/in/bhrijpatel/"
 
 footer:
   links:
@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/Bridge00"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/bhrijpatel"
+      url: "https://www.linkedin.com/in/bhrijpatel/"
 
 defaults:
   # _posts
