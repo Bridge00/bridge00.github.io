@@ -78,10 +78,10 @@ footer:
       url: "https://www.linkedin.com/in/bhrijpatel/"
 
 defaults:
-  # _posts
+  # _about
   - scope:
       path: ""
-      type: posts
+      type: about
     values:
       layout: single
       author_profile: true
