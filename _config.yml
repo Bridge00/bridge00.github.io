@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Bhrij Patel"
   avatar : "/assets/images/bhrij_linkedin.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Duke undergraduate ML researcher. Currently applying to PhD programs."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
