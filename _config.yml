@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: Bhrij Patel
 email: bhrij.patel@duke.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm Bhrij Patel. Machine Learning researcher.
@@ -65,7 +65,7 @@ author:
       url: "https://github.com/Bridge00"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "www.linkedin.com/in/bhrijpatel"
+      url: "https://www.linkedin.com/in/bhrijpatel"
 
 footer:
   links:
@@ -75,7 +75,7 @@ footer:
       url: "https://github.com/Bridge00"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "www.linkedin.com/in/bhrijpatel"
+      url: "https://www.linkedin.com/in/bhrijpatel"
 
 defaults:
   # _posts
