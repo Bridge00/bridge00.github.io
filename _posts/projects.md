@@ -1,6 +1,7 @@
 ---
 permalink: /projects/
 title: "ML Projects"
+
 ---
 
 ## Superresolution
