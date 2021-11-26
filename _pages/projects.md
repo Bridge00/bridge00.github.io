@@ -34,6 +34,7 @@ Final class project where I implemented “Texture Networks: Feed-forward Synthe
 
 **Program: DoMath Summer 2020**
 
+Using MNIST and synthetic datasets with known manifolds, compared Variatinal Autoencoders to spectrel embedding in preservation of topology in the latent space.
 
 ## Interpretable vs Black-box Recidivism Models
 **Advisor: Dr. Cynthia Rudin**
