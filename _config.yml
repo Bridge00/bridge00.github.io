@@ -76,7 +76,6 @@ footer:
 
 defaults:
 
-
   # _pages
   - scope:
       path: "_pages"
@@ -84,5 +83,4 @@ defaults:
     values:
       layout: splash
       author_profile: true
-
 
