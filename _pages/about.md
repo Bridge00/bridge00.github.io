@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! 
+I am Bhrij Patel. Currently, I am a senior at Duke University double majoring in CS and Math with a minor in Creative Writing. I am an undergraduate research advised by Dr. Cynthia Rudin in her [Interpretable ML Lab] [https://users.cs.duke.edu/~cynthia/] (previously the Prediction Analysis Lab). 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have broad interests in ML such as predictive analytics, computer vision, interpretability, generative modeling, and representation learning. Recently, I have been focusing on unsupervised representation learning to find meaningful structures in real-world visual data that are useful for downstream tasks.
+
+In my undergraduate year, I have researched interpretability for criminal recidivism models, video deblurring, superresolution, weakly supervivsed learning protein localizations, synthetic ECG generation, and data dimension reduction of neural networks with topological constraints.
+
+
+
+I am currently applying to PhD programs in CS!
