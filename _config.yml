@@ -76,7 +76,13 @@ footer:
 
 defaults:
 
-  # _pages
+  
+    - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   - scope:
       path: "_pages"
       type: pages
