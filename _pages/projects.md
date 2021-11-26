@@ -10,6 +10,4 @@ I have broad interests in ML such as predictive analytics, computer vision, inte
 
 In my undergraduate year, I have researched interpretability for criminal recidivism models, video deblurring, superresolution, weakly supervivsed learning protein localizations, synthetic ECG generation, and data dimension reduction of neural networks with topological constraints.
 
-
-
 I am currently applying to PhD programs in CS!
