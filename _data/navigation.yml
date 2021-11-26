@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
+  - title: "Teaching"
+    url: /teaching/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Tags"
