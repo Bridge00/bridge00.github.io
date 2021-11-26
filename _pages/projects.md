@@ -10,20 +10,22 @@ Here are a descriptions of ML projects (for research or in class)
 **Advisors: Dr. Cynthia Rudin and [Dr. Aayush Bansal](http://www.cs.cmu.edu/~aayushb/)**
 **Teammate: Jerry Liu**
 
-Currently working 
+Currently working on patch-based method for portrait superresolution using representation learning. Will update soon!
+
 
 ## Automating 2D Classification in Cryo-Em Single-Particle Reconstruction Pipeline
-**Advisor: Dr. Alberto Bartesaghi**
-**Teammate: Jeevan Tewari**
+**Advisor: [Dr. Alberto Bartesaghi](http://cryoem.cs.duke.edu/)**
+**Teammate: [Jeevan Tewari](https://www.linkedin.com/in/jeevan-tewari/)**
 **Course: Duke CS 590: Computational Cryo-EM 3D Imaging**
 
+Research project for final assignment. In the Computational Cryo-EM 3D Imaging pipeline, software programs, such as cisTEM, create classes of images based on the particle orientation and provide class averages. A human picks classes with high-quality averages and the class images are used for reconstruction. I devised an approach using unsupervised representation learning to automate the selection of high-quality images.
 
 
 ## Neural Style Transfer
 **Instructor: Dr. Yiran Chen**
 **Course: Duke ECE 590: Computer Engineering Methods for Deep Learning**
 
-Final class project where I implemented “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images” by Ulyanov et al. [Link](https://github.com/Bridge00/nst) to my code on Github
+Final class project where I implemented “Texture Networks: Feed-forward Synthesis of Textures and Stylized Images” by Ulyanov et al. [Link](https://github.com/Bridge00/nst) to my code on Github.
 
 
 ## Neural Network Dimension Reduction with Topological Constraint
