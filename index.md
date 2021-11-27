@@ -11,6 +11,6 @@ I am Bhrij Patel. Currently, I am a senior at Duke University double majoring in
 
 I have broad interests in ML such as predictive analytics, computer vision, interpretability, generative modeling, and representation learning. Recently, I have been focusing on unsupervised representation learning to find meaningful structures in real-world visual data that are useful for downstream tasks.
 
-In my undergraduate year, I have researched [interpretability for criminal recidivism models](https://arxiv.org/abs/2005.04176), superresolution, weakly supervivsed learning for protein localizations, Cryo-Electron Microscopy, synthetic ECG generation, and data dimension reduction of neural networks with topological constraints.
+In my undergraduate career, I have researched [interpretability for criminal recidivism models](https://arxiv.org/abs/2005.04176), superresolution, weakly supervivsed learning for protein localizations, Cryo-Electron Microscopy, synthetic ECG generation, and data dimension reduction of neural networks with topological constraints.
 
 I am currently applying to PhD programs in CS!
