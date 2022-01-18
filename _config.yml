@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Zheng"
 title_separator          : "-"
 name                     : &name "Laura Zheng"
-description              : &description "Computer Science Grad @ UMD"
+description              : &description "CS Grad @ UMD"
 url                      : https://laurayuzheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laurayuzheng/laurayuzheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laura Zheng"
   avatar           : "headshot.png"
-  bio              : "1st Year CS Grad Student"
+  bio              : "2nd Year CS Grad Student"
   location         : "University of Maryland"
   employer         :
   pubmed           : #""
