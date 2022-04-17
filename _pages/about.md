@@ -8,13 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hello!! I am a first year computer science PhD student at the University of Maryland at College Park. My research interests include computer vision, autonomous driving, and broadly machine learning. I am still exploring research interests and I'm incredibly motivated to learn. Currently, I am working on various research projects with Dr. Ming Lin.
-
-My goals for this school year is to make a habit of stepping out of my comfort zone and stay in good health. In my free time, I enjoy playing my piano or cello, as well as video games. As an undergrad, I was also a part of the UMD Women's Ice Hockey team. Once the pandemic settles down, hopefully I can make some space in my schedule to skate again.
+Hello!! I am a second year computer science PhD student working with Dr. Ming Lin at the University of Maryland at College Park. My research interests include computer vision, autonomous driving, and broadly machine learning. Currently, I'm working on several projects including end-to-end driving, differentiable traffic simulation, and quantifying human driving behavior through VR. 
 
 [Download CV](files/laura-zheng_cv.pdf)
 
-For those interested in this website layout, it is an open-source template provided by AcademicPages on Github. The repository is linked [here](https://github.com/academicpages/academicpages.github.io).
+Below I'm just listing things for my own reference. 
+
+Blogs 
+====================================
+* [Lilian Weng's Blog](https://lilianweng.github.io/)
+* [Exploring Explainability for Vision Transformers](https://jacobgil.github.io/deeplearning/vision-transformer-explainability)
+
+Datasets 
+====================================
+* Real World Driving Datasets
+  - [Audi A2D2](https://www.a2d2.audi/a2d2/en.html)
+  - [Baidu Apolloscape](http://apolloscape.auto/#)
+  - [Waymo Open Dataset](https://waymo.com/intl/en_us/dataset-download-terms/)
+  - [Honda HRI Driving Dataset](https://usa.honda-ri.com/hdd)
+  - [Sully Chen Driving Dataset](https://github.com/SullyChen/driving-datasets)
+
+
+<!-- For those interested in this website layout, it is an open-source template provided by AcademicPages on Github. The repository is linked [here](https://github.com/academicpages/academicpages.github.io). -->
 
 <!---
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
