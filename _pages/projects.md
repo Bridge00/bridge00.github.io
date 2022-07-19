@@ -8,7 +8,7 @@ title: "ML Projects"
 
 **Teammate: Jerry Liu**
 
-Currently working on patch-based method for portrait superresolution using representation learning. Will update soon!
+Worked on patch-based method for portrait superresolution using representation learning.
 
 
 ## Automating 2D Classification in Cryo-Em Single-Particle Reconstruction Pipeline
