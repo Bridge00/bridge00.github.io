@@ -4,7 +4,7 @@ title: "About"
 
 ---
 
-![](/assets/images/bhrij_montage.png) 
+![](/assets/images/bhrij_montage2.png) 
 
 bhrij [DOT] patel [AT] duke [DOT] edu
 
