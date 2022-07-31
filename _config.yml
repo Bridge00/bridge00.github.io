@@ -54,7 +54,7 @@ plugins:
 
 author:
   name   : "About"
-  avatar : "/assets/images/bhrij_linkedin.png"
+  avatar : "/assets/images/bhrij_duke.png"
   bio    : "Duke undergraduate ML researcher. Currently applying to PhD programs."
   links:
     - label: "GitHub"
