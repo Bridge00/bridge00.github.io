@@ -6,7 +6,7 @@ title: "About"
 
 ![](/assets/images/bhrij_montage2.png) 
 
-bhrij [DOT] patel [AT] duke [DOT] edu
+bbp13 [AT] umd [DOT] edu
 
 
 
