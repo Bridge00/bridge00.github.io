@@ -11,7 +11,7 @@ bbp13 [AT] umd [DOT] edu
 
 
 Hello! 
-I am Bhrij Patel. I am a first-year CS PhD student at the UMD - College Park.
+I am Bhrij ("Bridge") Patel. I am a first-year CS PhD student at the UMD - College Park.
 
 I recently graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. 
 During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/) (previously the Prediction Analysis Lab). 
