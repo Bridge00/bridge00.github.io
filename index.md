@@ -4,7 +4,7 @@ title: "About"
 
 ---
 
-![](/assets/images/bhrij_montage2.png) 
+![](/assets/images/bhrij_montage3.png) 
 
 bbp13 [AT] umd [DOT] edu
 
