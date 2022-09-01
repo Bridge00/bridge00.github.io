@@ -2,8 +2,10 @@
 permalink: /projects/
 title: "ML Projects"
 ---
-## Stochastic Optimization of Deep Reinforcement
+## Stochastic Optimization of Deep Reinforcement Learning
 **Advisor: [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home)**
+
+Currently working on developing novel optimization method for DRL in the average reward setting. 
 
 ## Superresolution
 **Advisors: Dr. Cynthia Rudin and [Dr. Aayush Bansal](http://www.cs.cmu.edu/~aayushb/)**
