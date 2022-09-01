@@ -2,13 +2,15 @@
 permalink: /projects/
 title: "ML Projects"
 ---
+## Stochastic Optimization of Deep Reinforcement
+**Advisor: [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home)**
 
 ## Superresolution
 **Advisors: Dr. Cynthia Rudin and [Dr. Aayush Bansal](http://www.cs.cmu.edu/~aayushb/)**
 
 **Teammate: Jerry Liu**
 
-Worked on patch-based method for portrait superresolution using representation learning.
+Worked on patch-based method for portrait superresolution using interpretable representation learning. Focused on clustering patches of face (eyes, mouth, nose, etc.) to train a model on each cluster to learn more patch-specific details.
 
 
 ## Automating 2D Classification in Cryo-Em Single-Particle Reconstruction Pipeline
