@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bhrij Patel
-email: bhrij.patel@duke.edu
+email: bbp13@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm Bhrij Patel. Machine Learning researcher.
+  Hi! I'm Bhrij Patel -- Machine Learning Researcher
 #twitter_username: username
 github_username: Bridge00
 minimal_mistakes_skin: air
