@@ -13,4 +13,4 @@ Outside of research, I like playing ice hockey, listening to orchestral music, a
 
 I am actively looking for research internship opportunities for Summer 2023. In terms of internships, I am particularly interested about multi-agent problems in robotics as well as HCI / learning applications for autonomous driving. 
 
-[Download CV](files/laura_grad_cv.pdf)
+[Download CV](../files/laura_grad_cv.pdf)
