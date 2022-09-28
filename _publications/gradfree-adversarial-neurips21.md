@@ -12,4 +12,13 @@ We introduce a simple yet effective framework for improving the robustness of le
 
 [Project Site](https://gamma.umd.edu/researchdirections/autonomousdriving/visionrobustlearning/)
 
-<!-- Akhauri S, Zheng L, Lin M (2020). &quot;Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation.&quot; <i>International Conference on Intelligent Robots and Systems 2020</i>. -->
+```
+@article{shen2021gradient,
+  title={Gradient-free adversarial training against image corruption for learning-based steering},
+  author={Shen, Yu and Zheng, Laura and Shu, Manli and Li, Weizi and Goldstein, Tom and Lin, Ming},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={26250--26263},
+  year={2021}
+}
+```

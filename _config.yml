@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "laurayuzheng"
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "University of Maryland"
   employer         :
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : "https://scholar.google.com/citations?user=kGUj-dIAAAAJ&hl=en"
   email            : "lyzheng@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
