@@ -49,5 +49,5 @@ Processed criminal history data from Broward County, FL and the state of Kentuck
 
 You can find the results in our paper, now in review at the Journal of Quantitative Criminology:
 [In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction](https://arxiv.org/abs/2005.04176). 
-We also have a video presentation of our work [here](https://www.youtube.com/watch?v=4yltcVt3Z8M&t=4s&ab_channel=DukeComputerScience)
+
 
