@@ -15,7 +15,7 @@ I am currently searching for full-time summer internships for 2023!
 
 - **[Oct. 2022]**  I am presenting a workshop paper on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
 - **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). Another great event in the books! 
-- **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/)
+- **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/).
 - **[Sept. 2022]**  Submitted a paper to [ICRA 2023](https://www.icra2023.org/).
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=kGUj-dIAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></temp></h2>
@@ -127,7 +127,7 @@ I am currently searching for full-time summer internships for 2023!
       <div class="title">Quantifying Human Driving Behavior through Virtual Reality</div>
       <div class="author"><strong>Laura Zheng</strong>, James Mullen, Julio Poveda, Shreelekha Revankar, Ming Lin </div>
       <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
-      </div>
+      <!-- </div> -->
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
