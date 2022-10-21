@@ -1,0 +1,168 @@
+---
+layout: homepage
+---
+
+## About Me
+
+I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based autonomous driving**, **learning generalizable features in computer vision**, and most recently **VR and HCI for high-fidelity data generation**. Most recently, I have been working on projects related to traffic-aware autonomous driving for societal objectives, as well as quantifying complex human driving behavior through VR. 
+
+I am currently searching for full-time summer internships for 2023!
+
+<!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
+
+
+## News
+
+- **[Oct. 2022]**  I am presenting a workshop paper on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
+- **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). Another great event in the books! 
+- **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/)
+- **[Sept. 2022]**  Submitted a paper to [ICRA 2023](https://www.icra2023.org/).
+
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=kGUj-dIAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></temp></h2>
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/shen2021nips.jpeg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="shen2021nips" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://proceedings.neurips.cc/paper/2021/hash/dce8af15f064d1accb98887a21029b08-Abstract.html ">Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering</a></div>
+      <div class="author">Yu Shen, <strong>Laura Zheng</strong>, Manli Shu, Weizi Li, Tom Goldstein, Ming Lin </div>
+      <div class="periodical"><em>Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.</em>
+      </div>
+    <div class="links">
+      <a href="https://proceedings.neurips.cc/paper/2021/file/dce8af15f064d1accb98887a21029b08-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/YuShen0118/Multi_Perturbation_Robustness" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://proceedings.neurips.cc/paper/13633-/bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/etladsas.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">IROS</abbr>
+  </div>
+  <div id="shen2021nips" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9341538">Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation</a></div>
+      <div class="author">Shivam Akhauri, <strong>Laura Zheng</strong>, Ming Lin </div>
+      <div class="periodical"><em>International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2007.12148.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://gamma.umd.edu/etladsas/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+<h2 id="workshops" style="margin: 2px 0px -15px;">Workshops <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/badue22.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">BADUE</abbr>
+  </div>
+  <div id="zhengbadue22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Exploring Contrastive Learning and Attention Networks for Self-Driving Generalization</div>
+      <div class="author"><strong>Laura Zheng</strong>, Yu Shen, Ming Lin </div>
+      <div class="periodical"><em> Behavior-Driven Autonomous Driving in Unstructured Environments <strong>(BADUE @ IROS)</strong>, 2022.</em>
+      </div>
+    <div class="links">
+      <a href="https://www.google.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video (TBD)</a>
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+<h2 id="unpublished" style="margin: 2px 0px -15px;">Ongoing / Unpublished Projects <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/traffic_driving.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Under Review</abbr>
+  </div>
+  <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation</div>
+      <div class="author"><strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin </div>
+      <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/traffic_driving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br> 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">In Progress</abbr>
+  </div>
+  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Quantifying Human Driving Behavior through Virtual Reality</div>
+      <div class="author"><strong>Laura Zheng</strong>, James Mullen, Julio Poveda, Shreelekha Revankar, Ming Lin </div>
+      <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
+      </div>
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/traffic_driving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+## Teaching
+
+- Teaching Assistant, [Data Structures](http://www.cs.umd.edu/class/fall2021/cmsc420-0301/) for [Professor Hanan Samet](http://www.cs.umd.edu/~hjs/), Fall 2021
+- Teaching Assistant, [Data Science](https://github.com/cmsc320/spring2022) for [Professor Jose Calderon](http://jmct.cc/), Spring 2022 and Spring 2021
+
+## Services
+
+<h4 style="margin:0 10px 0;">Volunteering</h4>
+
+<ul style="margin:0 0 5px;">
+  <li> Graduate Mentor at <a href="https://inclusion.cs.umd.edu/events/techresearch">Tech+Research</a> for <a href="https://gotechnica.org/">Technica @ UMD</a>, the largest hackathon for marginalized genders, 2020-2022 </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://gamma.umd.edu/workshops/badue22/"><autocolor> [Workshop] Behavior-Driven Autonomous Driving in Unstructured Environments (BADUE @ IROS) 2022</autocolor></a></li>
+  <li><a href="https://www.iros2020.org/"><autocolor> IEEE International Conference on Intelligent Robots and Systems (IROS) 2020</autocolor></a></li>
+</ul>
+
+<!--
+## Contact
+**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
+<br>
+**Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
+-->
