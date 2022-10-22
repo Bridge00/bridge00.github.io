@@ -91,7 +91,7 @@ I am currently searching for full-time summer internships for 2023!
 </ol>
 </div>
 
-<h2 id="unpublished" style="margin: 2px 0px -15px;">Ongoing / Unpublished Projects <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
+<h2 id="unpublished" style="margin: 2px 0px -15px;">Ongoing Projects <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
