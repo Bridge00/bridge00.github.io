@@ -189,7 +189,7 @@ I am currently searching for full-time summer internships for 2023!
 
 I used to compete in undergraduate collegiate league for Counter-Strike: GO in undergrad, and picked up VALORANT in 2020 for fun when the beta was out. I do not compete anymore, but I love following the main stream pro scene as well as the [Game Changers (GC)](https://playvalorant.com/en-us/news/esports/vct-game-changers/) scene. Game Changers is a league for marginalized genders and is dedicated to mitigating gender disparities and encouraging competitive participation from women and nonbinary players in VALORANT. I have genuinely enjoyed watching the growth and acceptance of marginalized genders in FPS in the last 2 years as a result of these initatives. 
 
-FPS and RPG games are one of my favorite past times. Two of my favorite titles are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. 
+FPS and RPG games are one of my favorite past times. Two of my favorite titles are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. I can't recommend Enderal enough.. one of my favorite storylines and everything including the voice acting is community-made.
 
 I also played club women's ice hockey all four years of my undergrad. It was a blast. It also kept me healthy since I am otherwise extremely sedentary!! 
 
