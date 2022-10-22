@@ -11,8 +11,8 @@ linkedin: https://www.linkedin.com/in/laurayuzheng/
 twitter: https://twitter.com/laurayuzheng/
 avatar: ./assets/img/headshot.JPG 
 # google_analytics: UA-111540567-4
-favicon: ./assets/img/folder_icon.png
-favicon_dark: ./assets/img/folder_icon.png
+favicon: ./assets/img/car_icon.png
+favicon_dark: ./assets/img/car_icon.png
 description: Laura Zheng is a 3rd year CS PhD student at the University of Maryland. Her research lies in applications of computer vision, machine learning, and VR to autonomous driving and simulation.
 # canonical: https://www.mpi-inf.mpg.de/~yaliu/
 # imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
