@@ -88,6 +88,26 @@ I am currently searching for full-time summer internships for 2023!
 </div>
 </li>
 
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/agu19.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">AGU</abbr>
+  </div>
+  <div id="zhengbadue22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Understanding Machine Learning in Earth Science: A Natural Language Processing Approach</div>
+      <div class="author"><strong>Laura Zheng</strong>, Arif Albayrak, William Teng, Mohammad Khayat, Long Pham </div>
+      <div class="periodical"><em> American Geophysical Union <strong>(AGU)</strong>, 2019.</em>
+      </div>
+    <div class="links">
+      <a href="https://ntrs.nasa.gov/citations/20200000390" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>
+  </div>
+</div>
+</li>
+
 </ol>
 </div>
 
