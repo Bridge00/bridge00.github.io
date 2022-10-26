@@ -45,9 +45,11 @@ Using MNIST and synthetic datasets with known manifolds, compared Variatinal Aut
 
 **Teammates: [Caroline Wang](https://carolinewang01.github.io/) and [Bin Han](https://www.linkedin.com/in/bin-han-960703/)**
 
+Published in Journal of Quantitative Criminology, 2022
+
 Processed criminal history data from Broward County, FL and the state of Kentucky. My team then assessed the performance and fairness of various interpretable and black-box algorithms. Our findings show that they perform comparably to each other and we thus advocate against the use of black-box and privatized algorithms in pre-trial risk assessments.
 
-You can find the results in our paper, now in review at the Journal of Quantitative Criminology:
-[In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction](https://arxiv.org/abs/2005.04176). 
+Recommended citation: Caroline Wang, Bin Han , Bhrij Patel, Cynthia Rudin (2022). "In pursuit of interpretable, fair and accurate machine learning for criminal recidivism prediction." Journal of Quantitative Criminology. https://link.springer.com/article/10.1007/s10940-022-09545-w
+
 
 
