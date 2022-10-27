@@ -82,7 +82,7 @@ I am currently searching for full-time summer internships for 2023!
       <div class="periodical"><em> Behavior-Driven Autonomous Driving in Unstructured Environments <strong>(BADUE @ IROS)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="https://www.google.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video (TBD)</a>
+      <a href="https://youtu.be/O9zZ6knHv54" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
@@ -195,9 +195,10 @@ I am currently searching for full-time summer internships for 2023!
   <li> Graduate Mentor at <a href="https://inclusion.cs.umd.edu/events/techresearch">Tech+Research</a> for <a href="https://gotechnica.org/">Technica @ UMD</a>, the largest hackathon for marginalized genders, 2020-2022 </li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://ieeevr.org/2023/"><autocolor>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2023</autocolor></a></li>
   <li><a href="https://gamma.umd.edu/workshops/badue22/"><autocolor> [Workshop] Behavior-Driven Autonomous Driving in Unstructured Environments (BADUE @ IROS) 2022</autocolor></a></li>
   <li><a href="https://www.iros2020.org/"><autocolor> IEEE International Conference on Intelligent Robots and Systems (IROS) 2020</autocolor></a></li>
 </ul>
