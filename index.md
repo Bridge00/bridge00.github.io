@@ -183,7 +183,7 @@ I am currently searching for full-time summer internships for 2023!
 </div>
 
 ## Teaching
-
+- Teaching Assistant, [Learning-based Modeling, Simulation and Animation](http://www.cs.umd.edu/class/fall2022/cmsc828X/) for [Professor Ming Lin](http://www.cs.umd.edu/~lin/), Fall 2022
 - Teaching Assistant, [Data Structures](http://www.cs.umd.edu/class/fall2021/cmsc420-0301/) for [Professor Hanan Samet](http://www.cs.umd.edu/~hjs/), Fall 2021
 - Teaching Assistant, [Data Science](https://github.com/cmsc320/spring2022) for [Professor Jose Calderon](http://jmct.cc/), Spring 2022 and Spring 2021
 
