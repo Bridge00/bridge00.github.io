@@ -192,7 +192,7 @@ I am currently searching for full-time summer internships for 2023!
 <h4 style="margin:0 10px 0;">Volunteering</h4>
 
 <ul style="margin:0 0 5px;">
-  <li> Graduate Mentor at <a href="https://inclusion.cs.umd.edu/events/techresearch">Tech+Research</a> for <a href="https://gotechnica.org/">Technica @ UMD</a>, the largest hackathon for marginalized genders, 2020-2022 </li>
+  <li> 3x Graduate Mentor at <a href="https://inclusion.cs.umd.edu/events/techresearch">Tech+Research</a> for <a href="https://gotechnica.org/">Technica @ UMD</a>, the largest hackathon for marginalized genders, 2020-2022 </li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
