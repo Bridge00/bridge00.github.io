@@ -12,10 +12,10 @@ I am currently searching for full-time summer internships for 2023!
 
 ## Education
 
-Ph.D in Computer Science, Fall 2020 - Present <br>
+**Ph.D in Computer Science**, Fall 2020 - Present <br>
 University of Maryland, College Park <br>
 
-B.S. in Computer Science, Fall 2016 - Fall 2019<br>
+**B.S. in Computer Science**, Fall 2016 - Fall 2019<br>
 University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
@@ -234,7 +234,7 @@ I also played club women's ice hockey all four years of my undergrad. It was a b
   <img src="./assets/img/wice2019.jpeg" width="500"/>
 </p>
 
-Here's a playlist of various uploads from my childhood YouTube account, where I posted gaming clips and the occasional travel vlog:
+Here's a playlist of various uploads from my childhood YouTube account, where I posted performance videos, gaming clips and the occasional travel vlog:
 
 <p align="center">
 <iframe width="500" height="250" src="https://www.youtube.com/embed/videoseries?list=PLzr8pDcbqManQJOkOsQfV5pv38gbqUZuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
