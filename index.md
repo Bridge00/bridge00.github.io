@@ -21,7 +21,7 @@ QUEST; CS; University Honors <br>
 
 ## News
 
-- **[Oct. 2022]**  I am presenting a workshop paper on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
+- **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
 - **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation)!
 - **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/).
 - **[Sept. 2022]**  Submitted two papers to [ICRA 2023](https://www.icra2023.org/).
