@@ -10,6 +10,14 @@ I am currently searching for full-time summer internships for 2023!
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
 
+## Education
+
+Ph.D in Computer Science, Fall 2020 - Present <br>
+University of Maryland, College Park <br>
+
+B.S. in Computer Science, Fall 2016 - Fall 2019<br>
+University of Maryland, College Park <br>
+QUEST; CS; University Honors <br>
 
 ## News
 
@@ -66,7 +74,7 @@ I am currently searching for full-time summer internships for 2023!
 </ol>
 </div>
 
-<h2 id="workshops" style="margin: 2px 0px -15px;">Workshops <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
+<h2 id="workshops" style="margin: 2px 0px -15px;">Oral Presentations<temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -187,6 +195,14 @@ I am currently searching for full-time summer internships for 2023!
 - Teaching Assistant, [Data Structures](http://www.cs.umd.edu/class/fall2021/cmsc420-0301/) for [Professor Hanan Samet](http://www.cs.umd.edu/~hjs/), Fall 2021
 - Teaching Assistant, [Data Science](https://github.com/cmsc320/spring2022) for [Professor Jose Calderon](http://jmct.cc/), Spring 2022 and Spring 2021
 
+## Honors and Awards 
+- Selected as Spotlight Talk at BADUE at IROS 2022
+- CS Summer Research Fellowship, Fall 2021
+- Grace Hopper Scholarship, Fall 2020 
+- Admission to Cornell, Maryland, Max Planck Pre-doctoral Research School, Summer 2020 [[Certificate]](./assets/docs/cmmrs_zheng.pdf)
+- Admission to QUEST Honors Program, Cohort 29, Fall 2017 
+- President's Scholarship, Fall 2016 - Spring 2020
+
 ## Services
 
 <h4 style="margin:0 10px 0;">Volunteering</h4>
@@ -213,15 +229,12 @@ I used to compete in undergraduate collegiate league for Counter-Strike: GO in u
 FPS and RPG games are one of my favorite past times. Two of my favorite titles are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. I can't recommend Enderal enough.. if you like Skyrim, you will love Enderal. 
 
 I also played club women's ice hockey all four years of my undergrad. It was a blast. It also kept me healthy since I am otherwise extremely sedentary!! 
-
-Here's a picture of my senior year team:
-
 <!-- ![UMD WICE 2019](./assets/img/wice2019.jpeg "WICE 2019") -->
 <p align="center">
   <img src="./assets/img/wice2019.jpeg" width="500"/>
 </p>
 
-Here's a playlist of various uploads from my childhood YouTube account, where I posted a lot of my [comedic] gaming edits and the occasional travel vlog (because why not):
+Here's a playlist of various uploads from my childhood YouTube account, where I posted gaming clips and the occasional travel vlog:
 
 <p align="center">
 <iframe width="500" height="250" src="https://www.youtube.com/embed/videoseries?list=PLzr8pDcbqManQJOkOsQfV5pv38gbqUZuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
