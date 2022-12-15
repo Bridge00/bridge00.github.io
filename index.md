@@ -214,7 +214,7 @@ QUEST; CS; University Honors <br>
 <h4 style="margin:0 10px 0;">Conference Reviewing</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://ieeevr.org/2023/"><autocolor>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2023</autocolor></a></li>
+  <!-- <li><a href="https://ieeevr.org/2023/"><autocolor>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2023</autocolor></a></li> -->
   <li><a href="https://gamma.umd.edu/workshops/badue22/"><autocolor> [Workshop] Behavior-Driven Autonomous Driving in Unstructured Environments (BADUE @ IROS) 2022</autocolor></a></li>
   <li><a href="https://www.iros2020.org/"><autocolor> IEEE International Conference on Intelligent Robots and Systems (IROS) 2020</autocolor></a></li>
 </ul>
