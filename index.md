@@ -6,8 +6,6 @@ layout: homepage
 
 I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based autonomous driving**, **learning generalizable features in computer vision**, and most recently **VR and HCI for high-fidelity data generation**. Most recently, I have been working on projects related to traffic-aware autonomous driving for societal objectives, as well as quantifying complex human driving behavior through VR. 
 
-I am currently searching for full-time summer internships for 2023!
-
 <!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
 
 ## Education
@@ -20,7 +18,7 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News
-
+- **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
 - **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
 - **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation)!
 - **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/).
