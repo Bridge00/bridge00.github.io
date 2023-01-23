@@ -20,7 +20,7 @@ QUEST; CS; University Honors <br>
 ## News
 - **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
 - **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
-- **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation)!
+- **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). The team which I mentored won the research-track award! Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation).
 - **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/).
 - **[Sept. 2022]**  Submitted two papers to [ICRA 2023](https://www.icra2023.org/).
 
@@ -28,6 +28,29 @@ QUEST; CS; University Honors <br>
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/traffic_driving.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICRA 2023</abbr>
+  </div>
+  <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation</div>
+      <div class="author"><strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin </div>
+      <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/trafficdriving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -121,33 +144,12 @@ QUEST; CS; University Honors <br>
 
 <div class="publications">
 <ol class="bibliography">
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/traffic_driving.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Under Review</abbr>
-  </div>
-  <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation</div>
-      <div class="author"><strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin </div>
-      <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
-      <a href="https://gamma.umd.edu/trafficdriving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/stltransfer.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Under Review</abbr>
+            <abbr class="badge">Unpublished</abbr>
   </div>
   <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Improving Generalization of Transfer Learning Across Domains Using Spatio-Temporal Features in Autonomous Driving</div>
@@ -194,6 +196,7 @@ QUEST; CS; University Honors <br>
 - Teaching Assistant, [Data Science](https://github.com/cmsc320/spring2022) for [Professor Jose Calderon](http://jmct.cc/), Spring 2022 and Spring 2021
 
 ## Honors and Awards 
+- Selected to attend [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
 - Selected as Spotlight Talk at BADUE at IROS 2022
 - CS Summer Research Fellowship, Fall 2021
 - Grace Hopper Scholarship, Fall 2020 
