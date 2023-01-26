@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based autonomous driving**, **learning generalizable features in computer vision**, and most recently **VR and HCI for high-fidelity data generation**. Most recently, I have been working on projects related to traffic-aware autonomous driving for societal objectives, as well as quantifying complex human driving behavior through VR. 
+I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based behavioral cloning**, **invariance in computer vision**, and most recently **differentiable simulation**. Currently, I'm working on projects related to differentiable traffic simulation and leverage driving data collected via virtual reality. I am also self-studying reinforcement learning and skills with Unity or Unreal. 
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
 
@@ -18,6 +18,8 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News
+- **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
+- **[Dec. 2022]** Completed my Masters-along-the-way.
 - **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
 - **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
 - **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). The team which I mentored won the research-track award! Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation).
@@ -225,11 +227,11 @@ QUEST; CS; University Honors <br>
 
 ## Hobbies and Fun Facts
 
-I used to compete in undergraduate collegiate league for Counter-Strike: GO in undergrad, and picked up VALORANT in 2020 for fun when the beta was out. I do not compete anymore, but I love following the main stream pro scene as well as the [Game Changers (GC)](https://playvalorant.com/en-us/news/esports/vct-game-changers/) scene. Game Changers is a league for marginalized genders and is dedicated to mitigating gender disparities and encouraging competitive participation from women and nonbinary players in VALORANT. I have genuinely enjoyed watching the growth and acceptance of marginalized genders in FPS in the last 2 years as a result of these initatives. 
+<!-- I used to compete in undergraduate collegiate league for Counter-Strike: GO in undergrad, and picked up VALORANT in 2020 for fun when the beta was out. I do not compete anymore, but I love following the main stream pro scene as well as the [Game Changers (GC)](https://playvalorant.com/en-us/news/esports/vct-game-changers/) scene. Game Changers is a league for marginalized genders and is dedicated to mitigating gender disparities and encouraging competitive participation from women and nonbinary players in VALORANT. I have genuinely enjoyed watching the growth and acceptance of marginalized genders in FPS in the last 2 years as a result of these initatives.  -->
 
-FPS and RPG games are one of my favorite past times. Two of my favorite titles are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. I can't recommend Enderal enough.. if you like Skyrim, you will love Enderal. 
+FPS and RPG games are one of my favorite past times. Currently, I play VALORANT and Genshin Impact. Two of my favorite titles of all time are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. I can't recommend Enderal enough.. if you like Skyrim, you will love Enderal. 
 
-I also played club women's ice hockey all four years of my undergrad. It was a blast. It also kept me healthy since I am otherwise extremely sedentary!! 
+I also played on the UMD women's club ice hockey team from 2016-2019 as left wing. It was a blast. Check out the team [Instagram](https://www.instagram.com/terpswhockey/) if you want to support! 
 <!-- ![UMD WICE 2019](./assets/img/wice2019.jpeg "WICE 2019") -->
 <p align="center">
   <img src="./assets/img/wice2019.jpeg" width="500"/>
