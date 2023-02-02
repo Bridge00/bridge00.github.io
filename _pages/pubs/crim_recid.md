@@ -7,7 +7,7 @@ title: ""
 
 <font size = "3"> Caroline Wang, Bin Han , Bhrij Patel, Cynthia Rudin (2022). "In pursuit of interpretable, fair and accurate machine learning for criminal recidivism prediction." Journal of Quantitative Criminology. </font>
 
-<font size = "3"> [Link to paper](https://link.springer.com/article/10.1007/s10940-022-09545-w) </font>
+[Link to paper](https://link.springer.com/article/10.1007/s10940-022-09545-w) 
 
 ## Abstract
 

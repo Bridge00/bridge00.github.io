@@ -7,7 +7,7 @@ title: ""
 
 <font size = "3"> Suttle, Wesley A., et al. "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." arXiv preprint arXiv:2301.12083 (2023). </font>
 
-<font size = "3"> [Link to paper](https://arxiv.org/abs/2301.12083) </font>
+[Link to paper](https://arxiv.org/abs/2301.12083)
 
 ## Abstract
 
