@@ -1,5 +1,5 @@
 ---
-permalink: /publications/beyond_expo/
+permalink: /pubs/beyond_expo/
 title: "beyond_expo"
 ---
 
