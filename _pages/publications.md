@@ -1,5 +1,5 @@
 ---
-permalink: /publicastions/
+permalink: /publications/
 title: "Publications"
 ---
 ## [Beyond Exponentially Fast Mixing in Average-Reward RL via Multi-Level Monte Carlo Actor-Critic](/pubs/beyond_expo)
