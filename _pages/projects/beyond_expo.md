@@ -1,9 +1,8 @@
 ---
 permalink: /pubs/beyond_expo/
-title: "beyond_expo"
 ---
 
-## [Beyond Exponentially Fast Mixing in Average-Reward RL via Multi-Level Monte Carlo Actor-Critic](/pubs/beyond_expo)
+## Beyond Exponentially Fast Mixing in Average-Reward RL via Multi-Level Monte Carlo Actor-Critic
 
 Suttle, Wesley A., et al. "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." arXiv preprint arXiv:2301.12083 (2023).
 
