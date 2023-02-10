@@ -44,7 +44,7 @@ QUEST; CS; University Honors <br>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://github.com/laurayuzheng/TrAAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://gamma.umd.edu/trafficdriving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
     </div>
   </div>
