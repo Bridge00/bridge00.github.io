@@ -55,7 +55,7 @@ plugins:
 author:
   name   : "About"
   avatar : "/assets/images/bhrij_duke.png"
-  bio    : "CS PhD Candidate @ UMD - College Park"
+  bio    : "CS PhD Student @ UMD - College Park"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
