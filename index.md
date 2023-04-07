@@ -17,7 +17,7 @@ University of Maryland, College Park <br>
 University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
-## News
+## News 
 - **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
 <!-- - **[Dec. 2022]** Completed my Masters-along-the-way. -->
 - **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
@@ -147,6 +147,30 @@ QUEST; CS; University Honors <br>
 <div class="publications">
 <ol class="bibliography">
 
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Under Review</abbr>
+  </div>
+  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Towards Driving Policies with Personality: Modeling Behavior and Style in Risky Scenarios via Data Collection in Virtual Reality</div>
+      <div class="author"><strong>Laura Zheng</strong>, Julio Poveda, James Mullen, Shreelekha Revankar, Ming Lin </div>
+      <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
+      <!-- </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2303.04901.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/vrdrivingrisk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br> 
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -167,28 +191,6 @@ QUEST; CS; University Honors <br>
 </div>
 </li>
 
-<br> 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">In Progress</abbr>
-  </div>
-  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Quantifying Human Driving Behavior through Virtual Reality</div>
-      <div class="author"><strong>Laura Zheng</strong>, James Mullen, Julio Poveda, Shreelekha Revankar, Ming Lin </div>
-      <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
-      <!-- </div> -->
-    <!-- <div class="links">
-      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
-      <a href="https://gamma.umd.edu/traffic_driving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
-    </div> -->
-  </div>
-</div>
-</li>
-
 </ol>
 </div>
 
@@ -196,6 +198,7 @@ QUEST; CS; University Honors <br>
 - Teaching Assistant, [Learning-based Modeling, Simulation and Animation](http://www.cs.umd.edu/class/fall2022/cmsc828X/) for [Professor Ming Lin](http://www.cs.umd.edu/~lin/), Fall 2022
 - Teaching Assistant, [Data Structures](http://www.cs.umd.edu/class/fall2021/cmsc420-0301/) for [Professor Hanan Samet](http://www.cs.umd.edu/~hjs/), Fall 2021
 - Teaching Assistant, [Data Science](https://github.com/cmsc320/spring2022) for [Professor Jose Calderon](http://jmct.cc/), Spring 2022 and Spring 2021
+<!-- - Teaching Assistant, Intro to Object Oriented Programming for [Fawzi Emad](http://www.cs.umd.edu/~fpe/), Fall 2020 -->
 
 ## Honors and Awards 
 - Selected to attend [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
