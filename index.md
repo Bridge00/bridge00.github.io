@@ -6,6 +6,8 @@ layout: homepage
 
 I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based behavioral cloning**, **invariance in computer vision**, and most recently **differentiable simulation**. Currently, I'm working on projects related to differentiable traffic simulation and leverage driving data collected via virtual reality. I am also self-studying reinforcement learning and skills with Unity or Unreal. 
 
+I will be interning with [Kitware](https://www.kitware.com/) in Summer 2023!
+
 <!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
 
 ## Education
@@ -217,10 +219,11 @@ QUEST; CS; University Honors <br>
   <li> 3x Graduate Mentor at <a href="https://inclusion.cs.umd.edu/events/techresearch">Tech+Research</a> for <a href="https://gotechnica.org/">Technica @ UMD</a>, the largest hackathon for marginalized genders, 2020-2022 </li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewing</h4>
+<h4 style="margin:0 10px 0;">Paper Review</h4>
 
 <ul style="margin:0 0 5px;">
   <!-- <li><a href="https://ieeevr.org/2023/"><autocolor>IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) 2023</autocolor></a></li> -->
+  <li><a href="https://gamma.umd.edu/workshops/badue22/"><autocolor> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 </autocolor></a></li>
   <li><a href="https://gamma.umd.edu/workshops/badue22/"><autocolor> [Workshop] Behavior-Driven Autonomous Driving in Unstructured Environments (BADUE @ IROS) 2022</autocolor></a></li>
   <li><a href="https://www.iros2020.org/"><autocolor> IEEE International Conference on Intelligent Robots and Systems (IROS) 2020</autocolor></a></li>
 </ul>
@@ -240,7 +243,7 @@ I also played on the UMD women's club ice hockey team from 2016-2019 as left win
   <img src="./assets/img/wice2019.jpeg" width="500"/>
 </p>
 
-Here's a playlist of various uploads from my childhood YouTube account, where I posted performance videos, gaming clips and the occasional travel vlog:
+Here's a playlist of various uploads from my childhood YouTube account, where I post funny music/skating performance videos, gaming montages and the occasional travel vlog:
 
 <p align="center">
 <iframe width="500" height="250" src="https://www.youtube.com/embed/videoseries?list=PLzr8pDcbqManQJOkOsQfV5pv38gbqUZuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
