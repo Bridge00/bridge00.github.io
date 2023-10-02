@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am currently a 3rd year Ph.D. student in Computer Science at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My research interests include **learning-based behavioral cloning**, **invariance in computer vision**, and most recently **differentiable simulation**. Currently, I'm working on projects related to differentiable traffic simulation and leverage driving data collected via virtual reality. I am also self-studying reinforcement learning and skills with Unity or Unreal. 
+I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable transferable variables will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. 
 
-I will be interning with [Kitware](https://www.kitware.com/) in Summer 2023!
+I am looking for 2023 summer internships! 
 
 <!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
 
@@ -20,13 +20,15 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
+- **[Sep. 2023]** Submitted 1 paper to ICLR 2023.
+- **[Sep. 2023]** Our paper, Gradient-Informed PPO, is accepted to NeurIPS 2023! 🎉
+- **[Sep. 2023]** Submitted 1 paper to ICRA 2024. 
+- **[May 2023]** Submitted 1 paper to SIGGRAPH Asia 2023. 
+- **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
 - **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
-<!-- - **[Dec. 2022]** Completed my Masters-along-the-way. -->
 - **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
 - **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
 - **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). The team which I mentored won the research-track award! Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation).
-<!-- - **[Oct. 2022]** Submitted a paper to [IEEE VR 2023](https://ieeevr.org/2023/). -->
-<!-- - **[Sept. 2022]**  Submitted two papers to [ICRA 2023](https://www.icra2023.org/). -->
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=kGUj-dIAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></temp></h2>
 
@@ -36,11 +38,31 @@ QUEST; CS; University Honors <br>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/gippo_learning_graph_ant.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">NeurIPS 2023</abbr>
+  </div>
+  <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Gradient-Informed Proximal Policy Optimization</div>
+      <div class="author">Sanghyun Son, <strong>Laura Zheng</strong>, Ryan Sullivan, Yiling Qiao, Ming Lin </div>
+      <div class="periodical"><em> Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.</em>
+      </div>
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2210.03772.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/laurayuzheng/TrAAD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://gamma.umd.edu/trafficdriving/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/TrafficAD_demo.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICRA</abbr>
   </div>
   <div id="zhengtraffic22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation</div>
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10161408">Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation</a></div>
       <div class="author"><strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin </div>
       <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em>
       </div>
@@ -149,16 +171,14 @@ QUEST; CS; University Honors <br>
 <div class="publications">
 <ol class="bibliography">
 
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Under Review</abbr>
+            <abbr class="badge">Ongoing</abbr>
   </div>
   <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Towards Driving Policies with Personality: Modeling Behavior and Style in Risky Scenarios via Data Collection in Virtual Reality</div>
+      <div class="title">Personality Modeling for Explainable, Robust, and Safer Autonomous Driving</div>
       <div class="author"><strong>Laura Zheng</strong>, Julio Poveda, James Mullen, Shreelekha Revankar, Ming Lin </div>
       <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
       <!-- </div> -->
@@ -171,7 +191,73 @@ QUEST; CS; University Honors <br>
 </div>
 </li>
 
-<br> 
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- <img src="./assets/img/kinematic-prior.png" class="teaser img-fluid z-depth-1"> -->
+            <abbr class="badge">Under Review</abbr>
+  </div>
+  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Kinematic Priors for Vehicle Trajectory Forecasting</div>
+      <div class="author"><strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin </div>
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2303.04901.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/vrdrivingrisk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1"> -->
+            <abbr class="badge">Ongoing</abbr>
+  </div>
+  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Data augmentation methods for computer vision robustness benchmarks</div>
+      <div class="author"><strong>Laura Zheng*</strong>, Yu Shen*, Shreelekha Revankar, Shijia Liao, Ming Lin </div>
+      <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
+      <!-- </div> -->
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2303.04901.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/vrdrivingrisk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!-- <img src="./assets/img/vrdriving_teaser.png" class="teaser img-fluid z-depth-1"> -->
+            <abbr class="badge">Under Review</abbr>
+  </div>
+  <div id="zhengvrdriving22" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Transfer Learning for Autonomous Steering</div>
+      <div class="author">Yu Shen, <strong>Laura Zheng*</strong>, Tianyi Zhou, Ming Lin </div>
+      <!-- <div class="periodical"><em> International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.</em> -->
+      <!-- </div> -->
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/2303.04901.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (TBD)</a>
+      <a href="https://gamma.umd.edu/vrdrivingrisk/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
+
+<h2 id="unpublished" style="margin: 2px 0px -15px;">Unpublished Projects <temp style="font-size:15px;"></temp><temp style="font-size:15px;"></temp></h2>
+
+<div class="publications">
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
