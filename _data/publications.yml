@@ -1,0 +1,48 @@
+main:
+
+  - title: "Gradient-Informed Proximal Policy Optimization"
+    authors: Sanghyun Son, <strong>Laura Zheng</strong>, Ryan Sullivan, Yiling Qiao, Ming Lin
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/gippo_learning_graph_ant.png
+    notes: Poster
+
+  - title: "Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation"
+    authors: <strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin
+    conference_short: ICRA
+    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161408
+    code: https://github.com/laurayuzheng/TrAAD
+    page: https://gamma.umd.edu/trafficdriving/
+    notes: Poster
+    image: ./assets/img/TrafficAD_demo.png
+
+  - title: "Exploring Contrastive Learning and Attention Networks for Self-Driving Generalization"
+    authors: <strong>Laura Zheng</strong>, Yu Shen, Ming Lin
+    conference_short: BADUE @ IROS
+    conference: Behavior-Driven Autonomous Driving in Unstructured Environments <strong>(BADUE @ IROS)</strong>, 2022.
+    pdf: https://obj.umiacs.umd.edu/badue-accepted/7.pdf
+    video: https://youtu.be/O9zZ6knHv54 
+    notes: Workshop Presentation
+    image: ./assets/img/badue22.png
+
+  - title: "Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering"
+    authors: Yu Shen, <strong>Laura Zheng</strong>, Manli Shu, Weizi Li, Tom Goldstein, Ming Lin
+    conference_short: NeurIPS
+    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
+    pdf: https://proceedings.neurips.cc/paper/2021/file/dce8af15f064d1accb98887a21029b08-Paper.pdf
+    code: https://github.com/YuShen0118/Multi_Perturbation_Robustness/
+    bibtex: https://proceedings.neurips.cc/paper/13633-/bibtex
+    notes: Poster
+    image: ./assets/img/shen2021nips.jpeg
+
+  - title: "Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation"
+    authors: Shivam Akhauri, <strong>Laura Zheng</strong>, Ming Lin
+    conference_short: IROS
+    conference: International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341538
+    notes: Poster
+    image: ./assets/img/etladsas.png
