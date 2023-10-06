@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable transferable variables will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. 
+I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. 
 
 I am looking for 2024 summer internships! 
 
