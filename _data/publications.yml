@@ -32,7 +32,7 @@ main:
   - title: "Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering"
     authors: Yu Shen, <strong>Laura Zheng</strong>, Manli Shu, Weizi Li, Tom Goldstein, Ming Lin
     conference_short: NeurIPS
-    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://proceedings.neurips.cc/paper/2021/file/dce8af15f064d1accb98887a21029b08-Paper.pdf
     code: https://github.com/YuShen0118/Multi_Perturbation_Robustness/
     bibtex: https://proceedings.neurips.cc/paper/13633-/bibtex
