@@ -8,8 +8,6 @@ I am currently a 4th year CS Ph.D. student at the [University of Maryland](https
 
 I am looking for 2024 summer internships! 
 
-<!-- <strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong> -->
-
 ## Education
 
 **Ph.D in Computer Science**, Fall 2020 - Present <br>
@@ -61,5 +59,5 @@ I also played on the UMD women's club ice hockey team from 2016-2019 as left win
 Here's a playlist of various uploads from my childhood YouTube account, where I post funny music/skating performance videos, gaming montages and the occasional travel vlog:
 
 <p align="center">
-<iframe width="500" height="250" src="https://www.youtube.com/embed/videoseries?list=PLzr8pDcbqManQJOkOsQfV5pv38gbqUZuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="250" src="https://www.youtube.com/embed/videoseries?list=PLzr8pDcbqManQJOkOsQfV5pv38gbqUZuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

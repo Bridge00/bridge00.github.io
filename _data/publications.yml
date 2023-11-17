@@ -4,9 +4,6 @@ main:
     authors: Sanghyun Son, <strong>Laura Zheng</strong>, Ryan Sullivan, Yiling Qiao, Ming Lin
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/gippo_learning_graph_ant.png
     notes: Poster
 
