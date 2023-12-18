@@ -5,17 +5,17 @@ main:
     conference_short: Ongoing
     image: ./assets/img/vrdriving_teaser.png 
 
-  - title: Data augmentation methods for computer vision robustness benchmarks
-    authors: <strong>Laura Zheng*</strong>, Yu Shen*, Shreelekha Revankar, Shijia Liao, Ming Lin
-    conference_short: Ongoing
+  # - title: Data augmentation methods for computer vision robustness benchmarks
+  #   authors: <strong>Laura Zheng*</strong>, Yu Shen*, Shreelekha Revankar, Shijia Liao, Ming Lin
+  #   conference_short: Ongoing
 
-  - title: Kinematic Priors for Vehicle Trajectory Forecasting
-    authors: <strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin
-    conference_short: Under Review
+  # - title: Kinematic Priors for Vehicle Trajectory Forecasting
+  #   authors: <strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin
+  #   conference_short: Under Review
     
-  - title: Transfer Learning for Autonomous Steering
-    authors: Yu Shen, <strong>Laura Zheng*</strong>, Tianyi Zhou, Ming Lin
-    conference_short: Under Review
+  # - title: Transfer Learning for Autonomous Steering
+  #   authors: Yu Shen, <strong>Laura Zheng*</strong>, Tianyi Zhou, Ming Lin
+  #   conference_short: Under Review
 
   - title: Improving Generalization of Transfer Learning Across Domains Using Spatio-Temporal Features in Autonomous Driving
     authors: Shivam Akhauri, <strong>Laura Zheng</strong>, Ming Lin

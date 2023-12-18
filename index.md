@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. 
+I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. Previously, I interned at Kitware as well as NASA Goddard SFC / ADNET Systems.
 
-I am looking for 2024 summer internships! 
+I will be interning at Waymo UK this upcoming Summer 2024!
+
 
 ## Education
 
@@ -47,7 +48,7 @@ QUEST; CS; University Honors <br>
 - QUEST Honors Program, Cohort 29, Fall 2017 
 - President's Scholarship, Fall 2016 - Spring 2020
 
-## Hobbies and Fun Facts
+## Hobbies and Side Quests
 FPS and RPG games are one of my favorite past times. Currently, I play VALORANT and Genshin Impact. Two of my favorite titles of all time are Legend of Zelda: Breath of the Wild, and [Enderal: Forgotten Stories](https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/), which started out as a Skyrim mod but has a beautiful storyline and fun combat mechanics. I can't recommend Enderal enough.. if you like Skyrim, you will love Enderal. 
 
 I also played on the UMD women's club ice hockey team from 2016-2019 as left wing. It was a blast. Check out the team [Instagram](https://www.instagram.com/terpswhockey/) if you want to support! 
