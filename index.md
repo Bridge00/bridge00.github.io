@@ -19,6 +19,7 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
+- **[Dec. 2023]** I was selected for [Oustanding GA Award](https://gradschool.umd.edu/funding/student-fellowships-awards/outstanding-graduate-assistant-awards) 2023! 🎉
 - **[Sep. 2023]** Submitted 1 paper to ICLR 2023.
 - **[Sep. 2023]** Our paper, Gradient-Informed PPO, is accepted to NeurIPS 2023! 🎉
 - **[Sep. 2023]** Submitted 1 paper to ICRA 2024. 
@@ -40,6 +41,7 @@ QUEST; CS; University Honors <br>
 <!-- - Teaching Assistant, Intro to Object Oriented Programming for [Fawzi Emad](http://www.cs.umd.edu/~fpe/), Fall 2020 -->
 
 ## Honors and Awards 
+- Selected for Outstanding Graduate Assistant Award (AY 2023-2024)
 - Selected to attend [CRA-W Grad Cohort for Women 2023](https://cra.org/cra-wp/grad-cohort-for-women/)
 - Selected as Spotlight Talk at BADUE at IROS 2022
 - CS Summer Research Fellowship, Fall 2021
