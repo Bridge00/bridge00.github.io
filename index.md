@@ -20,7 +20,6 @@ My current research interests:
   <li>Sample-Efficient Reinforcement Learning</li>
   <li>Markovian Data and Mixing Time</li>
   <li>Reinforcement Learning with Human Feedback</li>
-  <li>Hierarchical RL and Temporal Abstraction</li>
 </ul>
 
 
