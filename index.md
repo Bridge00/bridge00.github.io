@@ -4,10 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. As you can see, this extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects. Previously, I interned at Kitware as well as NASA Goddard SFC / ADNET Systems.
+I am currently a 4th year CS Ph.D. student at the [University of Maryland](https://www.cs.umd.edu/), supervised by [Professor Ming Lin](https://www.cs.umd.edu/~lin/) at the [GAMMA Group](https://gamma.umd.edu/). My north star in research is safer, more transparent, and interpretable autonomous driving. 
+I believe that designing deep learning frameworks for driving with interpretable and transferable priors in mind will ultimately lead to safer, socially-viable, and impactful policies. 
+More specifically, my research interest involves combining simulation techniques and deep learning for autonomous driving and general multi-agent interaction scenarios. 
+While this paradigm has been explored for physics-based simulation, applying it to traffic simulation is challenging since existing mathematical models of simulation describe approximations (rather than exact paths) of human beings. 
+<!-- This extends to topics in learning-based computer vision, multi-agent interaction modeling, traffic simulation, and HCI user studies in my projects.  -->
+Previously, I interned at Kitware with Brian Clipp and at NASA Goddard SFC / ADNET Systems with Arif Albayrak, William Teng, and Mohammad Khayat.
 
 I will be interning at Waymo UK this upcoming Summer 2024!
-
 
 ## Education
 
