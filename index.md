@@ -19,16 +19,12 @@ University of Maryland, College Park <br>
 QUEST; CS; University Honors <br>
 
 ## News 
+- **[Mar. 2024]** I received the [Maryland Transportation Initiative Fellowship](https://mti.umd.edu/MTI-fellowship-initiative)! 🎉
+- **[Jan. 2024]** "Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering" is accepted to ICRA 2024! 🎉
 - **[Dec. 2023]** I was selected for [Oustanding GA Award](https://gradschool.umd.edu/funding/student-fellowships-awards/outstanding-graduate-assistant-awards) 2023! 🎉
-- **[Sep. 2023]** Submitted 1 paper to ICLR 2023.
-- **[Sep. 2023]** Our paper, Gradient-Informed PPO, is accepted to NeurIPS 2023! 🎉
-- **[Sep. 2023]** Submitted 1 paper to ICRA 2024. 
-- **[May 2023]** Submitted 1 paper to SIGGRAPH Asia 2023. 
+- **[Sep. 2023]** "Gradient-Informed PPO" is accepted to NeurIPS 2023! 🎉
 - **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
 - **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
-- **[Dec. 2022]**  I will be interning next summer at [Kitware](https://www.kitware.com/) with the Computer Vision team!
-- **[Oct. 2022]**  I gave an oral presentation on exploring Contrastive Learning and Attention Networks for Self-Driving at [BADUE 2022](https://gamma.umd.edu/workshops/badue22/).
-- **[Oct. 2022]** 3rd-time graduate mentor at Tech+Research for [Technica 2022](https://gotechnica.org/). The team which I mentored won the research-track award! Check out the DevPost for our mini-project on VR Driving [here](https://devpost.com/software/measuring-driver-behavior-through-vr-simulation).
 
 {% include_relative _includes/publications.md %}
 

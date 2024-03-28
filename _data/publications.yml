@@ -1,4 +1,10 @@
 main:
+  - title: "Task-Driven Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering"
+    authors: Yu Shen, <strong>Laura Zheng</strong>, Tianyi Zhou, Ming Lin
+    conference_short: ICRA
+    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
+    image: ./assets/img/transfer_learning_icra24_shen.jpg
+    notes: Poster
 
   - title: "Gradient-Informed Proximal Policy Optimization"
     authors: Sanghyun Son, <strong>Laura Zheng</strong>, Ryan Sullivan, Yiling Qiao, Ming Lin
