@@ -6,7 +6,8 @@ title: "Publications"
 <!-- 
 ## [Beyond Exponentially Fast Mixing in Average-Reward RL via Multi-Level Monte Carlo Actor-Critic](/pubs/beyond_expo) -->
 
-[Wesley A. Suttle*, Amrit Singh Bedi*, __Bhrij Patel__, Alec Koppel, Brain M. Sadler, Dinesh Manocha. "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." Proceedings of the 40th International Conference on Machine Learning, (2023).](/pubs/beyond_expo)
+ __ICML 2023__ ["Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." Proceedings of the 40th International Conference on Machine Learning, (2023).](/pubs/beyond_expo)
+ Wesley A. Suttle, Amrit Singh Bedi, __Bhrij Patel__, Alec Koppel, Brain M. Sadler, Dinesh Manocha.
 
 
 
