@@ -3,13 +3,13 @@ permalink: /publications/
 title: "Publications"
 ---
 
-__[ICML 2024]__ ["Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." Proceedings of the 40th International Conference on Machine Learning, (2023).](https://arxiv.org/abs/2403.11925)
+__[ICML 2024]__ ["Global Optimality without Mixing Time Oracles in Average-reward RL via Multi-level Actor-Critic"](https://arxiv.org/abs/2403.11925)
 
  __Bhrij Patel__, Wesley A. Suttle,  Alec Koppel, Vaneet Aggarwal, Brain M. Sadler, Amrit Singh Bedi, Dinesh Manocha.
 <!-- 
 ## [Beyond Exponentially Fast Mixing in Average-Reward RL via Multi-Level Monte Carlo Actor-Critic](/pubs/beyond_expo) -->
 
- __[ICML 2023]__ ["Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." Proceedings of the 40th International Conference on Machine Learning, (2023).](https://proceedings.mlr.press/v202/suttle23a.html)
+ __[ICML 2023]__ ["Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic." Proceedings of the 40th International Conference on Machine Learning"](https://proceedings.mlr.press/v202/suttle23a.html)
 
  Wesley A. Suttle*, Amrit Singh Bedi*, __Bhrij Patel__, Alec Koppel, Brain M. Sadler, Dinesh Manocha.
 
