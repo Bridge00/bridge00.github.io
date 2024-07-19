@@ -1,21 +1,42 @@
 main:
+  - title: "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic"
+    authors: <strong>Laura Zheng</strong>, Sanghyun Son, Jing Liang, Xijun Wang, Brian Clipp, Ming Lin
+    conference_short: IROS '24
+    conference: International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    image: ./assets/img/iros24_teaser.png
+    notes: Poster
+
+  - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
+    authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
+    conference_short: IROS '24
+    conference: International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    image: ./assets/img/traverse_teaser.png
+    pdf: https://arxiv.org/abs/2407.09466
+    page: https://gamma.umd.edu/researchdirections/autonomousdriving/traversesim/ 
+    notes: Poster
+
   - title: "Task-Driven Domain-Agnostic Learning with Information Bottleneck for Autonomous Steering"
     authors: Yu Shen, <strong>Laura Zheng</strong>, Tianyi Zhou, Ming Lin
-    conference_short: ICRA
+    conference_short: ICRA '24
     conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2024.
     image: ./assets/img/transfer_learning_icra24_shen.jpg
+    page: https://gamma.umd.edu/researchdirections/autonomousdriving/tddal_transfer/
+    pdf: https://www.cs.umd.edu/~yushen/docs/ICRA2024.pdf 
     notes: Poster
 
   - title: "Gradient-Informed Proximal Policy Optimization"
     authors: Sanghyun Son, <strong>Laura Zheng</strong>, Ryan Sullivan, Yiling Qiao, Ming Lin
-    conference_short: NeurIPS
+    conference_short: NeurIPS '23
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     image: ./assets/img/gippo_learning_graph_ant.png
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/1bd8cfc0e4c53869b7f1d0ed4b1e78e1-Abstract-Conference.html 
+    code: https://github.com/SonSang/gippo
+    page: https://sites.google.com/view/grad-on-policy-rl 
     notes: Poster
 
   - title: "Traffic-Aware Autonomous Driving with Differentiable Traffic Simulation"
     authors: <strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin
-    conference_short: ICRA
+    conference_short: ICRA '23
     conference: International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161408
     code: https://github.com/laurayuzheng/TrAAD
@@ -25,7 +46,7 @@ main:
 
   - title: "Exploring Contrastive Learning and Attention Networks for Self-Driving Generalization"
     authors: <strong>Laura Zheng</strong>, Yu Shen, Ming Lin
-    conference_short: BADUE @ IROS
+    conference_short: BADUE @ IROS '22
     conference: Behavior-Driven Autonomous Driving in Unstructured Environments <strong>(BADUE @ IROS)</strong>, 2022.
     pdf: https://obj.umiacs.umd.edu/badue-accepted/7.pdf
     video: https://youtu.be/O9zZ6knHv54 
@@ -34,7 +55,7 @@ main:
 
   - title: "Gradient-Free Adversarial Training Against Image Corruption for Learning-based Steering"
     authors: Yu Shen, <strong>Laura Zheng</strong>, Manli Shu, Weizi Li, Tom Goldstein, Ming Lin
-    conference_short: NeurIPS
+    conference_short: NeurIPS '21
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://proceedings.neurips.cc/paper/2021/file/dce8af15f064d1accb98887a21029b08-Paper.pdf
     code: https://github.com/YuShen0118/Multi_Perturbation_Robustness/
@@ -44,7 +65,7 @@ main:
 
   - title: "Enhanced Transfer Learning for Autonomous Driving with Systematic Accident Simulation"
     authors: Shivam Akhauri, <strong>Laura Zheng</strong>, Ming Lin
-    conference_short: IROS
+    conference_short: IROS '20
     conference: International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2020.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9341538
     notes: Poster
