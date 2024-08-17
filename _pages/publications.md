@@ -10,12 +10,12 @@ __[ICML 2024]__ ["Towards Global Optimality for Practical Average Reward Reinfor
 
  __[ICML 2023]__ ["Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic."](https://proceedings.mlr.press/v202/suttle23a.html)
 
- Wesley A. Suttle*, Amrit Singh Bedi*, __Bhrij Patel__, Alec Koppel, Brain M. Sadler, Dinesh Manocha.
+ Wesley A. Suttle\*, Amrit Singh Bedi\*, __Bhrij Patel__, Alec Koppel, Brain M. Sadler, Dinesh Manocha.
 
 
 __[JoQC 2022]__["In pursuit of interpretable, fair and accurate machine learning for criminal recidivism prediction"](https://link.springer.com/article/10.1007/s10940-022-09545-w)
 
-Caroline Wang*, Bin Han*, __Bhrij Patel__, Cynthia Rudin
+Caroline Wang\*, Bin Han\*, __Bhrij Patel__, Cynthia Rudin
 
 <!-- ## [In pursuit of interpretable, fair and accurate machine learning for criminal recidivism prediction](https://link.springer.com/article/10.1007/s10940-022-09545-w) -->
 
@@ -27,11 +27,11 @@ Caroline Wang*, Bin Han*, __Bhrij Patel__, Cynthia Rudin
 
 ["Embodied Question Answering via Multi-LLM Systems"](https://arxiv.org/abs/2406.10918)
 
-__Bhrij Patel__,  Vishnu Sashank Dorbala, Dinesh Manocha, Amrit Singh Bedi.
+__Bhrij Patel__, Vishnu Sashank Dorbala, Dinesh Manocha, Amrit Singh Bedi.
 
 ["Right Place, Right Time! Towards ObjectNav for Non-Stationary Goals"](https://arxiv.org/abs/2403.09905)
 
-__Vishnu Sashank Dorbala__,__Bhrij Patel__,  Amrit Singh Bedi, Dinesh Manocha.
+Vishnu Sashank Dorbala\*,__Bhrij Patel__\*,  Amrit Singh Bedi, Dinesh Manocha.
 
 ["Ada-NAV: Adaptive Trajectory-Based Sample Efficient Policy Learning for Robotic Navigation"](https://arxiv.org/abs/2306.06192)
 
