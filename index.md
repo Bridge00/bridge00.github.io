@@ -11,8 +11,8 @@ I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) 
 My current research interests:
 
 <ul>
-  <li>Sample-Efficient Reinforcement Learning</li>
-  <li>Markovian Data and Mixing Time</li>
+  <li>Reinforcement Learning</li>
+  <li>Sample Efficient Learning with Markovian Data</li>
   <li>Optimization & Alignment for AI Systems</li>
   <li>LLM for Planning</li>
 </ul>
