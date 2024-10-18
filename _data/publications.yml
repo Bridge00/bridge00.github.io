@@ -8,7 +8,7 @@ main:
     # notes: Poster
 
   - title: "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic"
-    authors: <strong>Wesley A. Suttle</strong>, <strong>Amrit Singh Bedi</strong>, Bhrij Patel, Brian M. Sadler, Alec Koppel, Dinesh Manocha
+    authors: <strong>Wesley A. Suttle*</strong>, <strong>Amrit Singh Bedi*</strong>, Bhrij Patel, Brian M. Sadler, Alec Koppel, Dinesh Manocha
     conference_short: ICML '23
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     image: ./assets/img/mac.png
