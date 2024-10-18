@@ -1,11 +1,18 @@
 main:
-  - title: ""
+  - title: "Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles"
     authors: <strong>Bhrij Patel</strong>, Wesley A. Suttle, Alec Koppel, Vaneet Aggarwal, Brian M. Sadler, Dinesh Manocha, Amrit Singh Bedi
     conference_short: ICML '24
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     image: ./assets/img/global_mac.png
-    notes: Poster
+    pdf: https://icml.cc/virtual/2024/poster/34664
+    # notes: Poster
 
+  - title: "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic"
+    authors: <strong>Wesley A. Suttle</strong>, <strong>Amrit Singh Bedi</strong>, Bhrij Patel, Brian M. Sadler, Alec Koppel, Dinesh Manocha
+    conference_short: ICML '23
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
+    image: ./assets/img/mac.png
+    pdf: https://icml.cc/virtual/2023/poster/23589
   # - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
   #   authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
   #   conference_short: IROS '24
