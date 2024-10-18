@@ -24,7 +24,6 @@ University of Maryland, College Park <br>
 **B.S. in Computer Science & Math, Minor in Creative Writing**, August 2018 - May 2022<br>
 Duke University <br>
 
-
 <!-- ## News 
 - **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉  (Blog post and camera-ready are under construction!!)
 - **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉  (Open source is coming soon!)
@@ -55,3 +54,4 @@ Duke University <br>
 - Cornell, Maryland, Max Planck Pre-doctoral Research School, Summer 2020 [[Certificate]](./assets/docs/cmmrs_zheng.pdf)
 - QUEST Honors Program, Cohort 29, Fall 2017 
 - President's Scholarship, Fall 2016 - Spring 2020
+-->
