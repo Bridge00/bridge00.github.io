@@ -20,12 +20,12 @@ main:
   #   # page: https://gamma.umd.edu/stltransfer/
   #   image: ./assets/img/cce.png
 
-  # - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
-  #   authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
-  #   conference_short: ArXiv
-  #   pdf: https://arxiv.org/pdf/2306.06192
-  #   # page: https://gamma.umd.edu/stltransfer/
-  #   image: ./assets/img/cce.png
+  - title: Right Place, Right Time! Towards ObjectNav for Non-Stationary Goals
+    authors: <strong Vishnu Sashank Dorbala, Bhrij Patel</strong>, Amrit Singh Bedi, Dinesh Manocha
+    conference_short: ArXiv
+    pdf: https://arxiv.org/pdf/2403.09905
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/pobj.png
 
   - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
     authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
