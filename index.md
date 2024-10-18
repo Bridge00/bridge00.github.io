@@ -35,9 +35,11 @@ Duke University <br>
 - **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
 - **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
 
-{% include_relative _includes/publications.md %}
+
 
 {% include_relative _includes/services.md %} -->
+
+{% include_relative _includes/publications.md %}
 
 <!-- ## Teaching
 - Teaching Assistant, [Learning-based Modeling, Simulation and Animation](http://www.cs.umd.edu/class/fall2022/cmsc828X/) for [Professor Ming Lin](http://www.cs.umd.edu/~lin/), Fall 2022
