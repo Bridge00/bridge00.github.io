@@ -6,7 +6,7 @@ layout: homepage
 
 
 I am Bhrij ("Bridge") Patel. I am a third-year CS PhD student at the UMD - College Park.
-I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF), focusing on <strong>policy optimization for RL and LLM-based agents and systems.</strong> Before my PhD, I graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
+I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF), focusing on <strong>policy optimization for RL and LLM-based agents and systems.</strong> My work contributes a mixture of theoretical and empirical results. Before my PhD, I graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
 
 My current research interests:
 
