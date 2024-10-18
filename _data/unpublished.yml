@@ -6,7 +6,7 @@ main:
   #   image: ./assets/img/vrdriving_teaser.png 
 
 
-  - title: AI System Optimization via Multiple LLM Evalautors 
+  - title: AIME - AI System Optimization via Multiple LLM Evalautors 
     authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Wesley A. Suttle, Mendgi Wang, Amrit Singh Bedi*, Dinesh Manocha*
     conference_short: ArXiv
     pdf: https://arxiv.org/pdf/2410.03131
@@ -33,7 +33,7 @@ main:
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/pobj.png
 
-  - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
+  - title: CCE - Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
     authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
     conference_short: ArXiv
     pdf: https://arxiv.org/pdf/2306.06192
