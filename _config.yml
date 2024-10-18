@@ -1,28 +1,28 @@
 # Basic Information 
-title: Laura Yu Zheng
+title: Bhrij Patel
 position: Ph.D. Student
 affiliation: University of Maryland, College Park
-email: lyzheng (at) umd.edu
+email: bbp13 (at) umd.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: laura zheng, zheng laura, lyzheng, yu zheng, laurayuzheng
-description: Laura Zheng is a 4th year CS PhD student at the University of Maryland. Her research lies in applications of computer vision, machine learning, and VR to autonomous driving and simulation.
-canonical: https://laurayuzheng.github.io
+keywords: bhrij patel, patel bhrij, bbp13, bhrijpatel #laura zheng, zheng laura, lyzheng, yu zheng, laurayuzheng
+description: Bhrij Patel is a 3rd year CS PhD student at the University of Maryland. His research focuses on policy optimization for reinforcement learning and LLM-based systems.
+canonical: https://bridge00.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=kGUj-dIAAAAJ&hl=en
-cv_link: ./assets/docs/laura_grad_cv.pdf
-github_link: https://github.com/laurayuzheng/
-linkedin: https://www.linkedin.com/in/laurayuzheng/
-twitter: https://twitter.com/laurayuzheng/
+google_scholar: https://scholar.google.com/citations?user=rV_6eoIAAAAJ&hl=en
+cv_link: ./assets/docs/bhrij_patel_resume.pdf
+github_link: https://github.com/Bridge00/ 
+linkedin: https://www.linkedin.com/in/bhrijpatel/
+twitter: https://x.com/BhrijPatel_PhD
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/headshot2.JPG
-favicon: ./assets/img/car_icon.png
-favicon_dark: ./assets/img/car_icon.png
+avatar: ./assets/img/headshot.jpeg
+favicon: ./assets/img/rocket.avif
+favicon_dark: ./assets/img/rocket.avif
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
