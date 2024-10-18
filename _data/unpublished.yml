@@ -13,7 +13,7 @@ main:
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/aime.png
 
-  - title: 
+  - title: Multi-LLM QA with Embodied Exploration
     authors: <strong>Bhrij Patel</strong>, Vishnu Sashank Dorbala, Amrit Singh Bedi, Dinesh Manocha
     conference_short: ArXiv
     pdf: https://arxiv.org/pdf/2406.10918
