@@ -6,7 +6,9 @@ layout: homepage
 
 
 I am Bhrij ("Bridge") Patel. I am a third-year CS PhD student at the UMD - College Park.
-I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF), focusing on policy optimization for RL and LLMs. Before my PhD, I graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
+I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF), focusing on policy optimization for RL and LLM-based agents and systems. 
+
+Before my PhD, I graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
 
 My current research interests:
 
@@ -26,7 +28,7 @@ University of Maryland, College Park <br>
 Duke University <br>
 
 <!-- ## News 
-- **[Jul. 2024]** "Deep Stochastic Kinematic Models for Probabilistic Motion Forecasting in Traffic" is accepted to IROS 2024! 🎉  (Blog post and camera-ready are under construction!!)
+- **[Jul. 2024]** "AIME: AI System Optimization via M! 🎉  (Blog post and camera-ready are under construction!!)
 - **[Jul. 2024]** Our paper on our co-simulated driving and traffic simulation in VR, TRAVERSE, is accepted to IROS 2024! 🎉  (Open source is coming soon!)
 - **[May 2024]** Began summer internship at [Waymo](https://waymo.com/) in Oxford, UK!
 - **[Mar. 2024]** I received the [Maryland Transportation Initiative Fellowship](https://mti.umd.edu/MTI-fellowship-initiative)! 🎉
@@ -35,10 +37,10 @@ Duke University <br>
 - **[Sep. 2023]** "Gradient-Informed PPO" is accepted to NeurIPS 2023! 🎉
 - **[May 2023]** Started internship at [Kitware Inc.](https://www.kitware.com/) in Carrboro, NC!
 - **[Jan. 2023]** Traffic-Aware AD paper is accepted to ICRA 2023! 🎉
+ -->
 
-
-
-{% include_relative _includes/services.md %} -->
+<!-- 
+{% include_relative _includes/services.md %} --> 
 
 {% include_relative _includes/publications.md %}
 
