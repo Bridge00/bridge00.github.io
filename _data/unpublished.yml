@@ -13,6 +13,12 @@ main:
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/aime.png
 
+  - title: 
+    authors: <strong>Bhrij Patel</strong>, Vishnu Sashank Dorbala, Amrit Singh Bedi, Dinesh Manocha
+    conference_short: ArXiv
+    pdf: https://arxiv.org/pdf/2406.10918
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/mele.png
   # - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
   #   authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
   #   conference_short: ArXiv
