@@ -13,7 +13,7 @@ My current research interests:
 <ul>
   <li>Sample-Efficient Reinforcement Learning</li>
   <li>Markovian Data and Mixing Time</li>
-  <li>Optimization for AI Systems</li>
+  <li>Optimization & Alignment for AI Systems</li>
   <li>LLM for Planning</li>
 </ul>
 
