@@ -1,25 +1,36 @@
 main:
 
-  - title: Personality Modeling for Explainable, Robust, and Safer Autonomous Driving
-    authors: <strong>Laura Zheng</strong>, Julio Poveda, James Mullen, Shreelekha Revankar, Ming Lin
-    conference_short: Ongoing
-    image: ./assets/img/vrdriving_teaser.png 
-
-  # - title: Data augmentation methods for computer vision robustness benchmarks
-  #   authors: <strong>Laura Zheng*</strong>, Yu Shen*, Shreelekha Revankar, Shijia Liao, Ming Lin
+  # - title: 
+  #   authors: <strong>Laura Zheng</strong>, Julio Poveda, James Mullen, Shreelekha Revankar, Ming Lin
   #   conference_short: Ongoing
+  #   image: ./assets/img/vrdriving_teaser.png 
 
-  # - title: Kinematic Priors for Vehicle Trajectory Forecasting
-  #   authors: <strong>Laura Zheng</strong>, Sanghyun Son, Ming Lin
-  #   conference_short: Under Review
-    
-  # - title: Transfer Learning for Autonomous Steering
-  #   authors: Yu Shen, <strong>Laura Zheng*</strong>, Tianyi Zhou, Ming Lin
-  #   conference_short: Under Review
 
-  - title: Improving Generalization of Transfer Learning Across Domains Using Spatio-Temporal Features in Autonomous Driving
-    authors: Shivam Akhauri, <strong>Laura Zheng</strong>, Ming Lin
+  - title: AI System Optimization via Multiple LLM Evalautors 
+    authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Wesley A. Suttle, Mendgi Wang, Amrit Singh Bedi*, Dinesh Manocha*
     conference_short: ArXiv
-    pdf: https://arxiv.org/pdf/2103.08116.pdf
-    page: https://gamma.umd.edu/stltransfer/
-    image: ./assets/img/stltransfer.png
+    pdf: https://arxiv.org/pdf/2410.03131
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/aime.png
+
+  # - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
+  #   authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
+  #   conference_short: ArXiv
+  #   pdf: https://arxiv.org/pdf/2306.06192
+  #   # page: https://gamma.umd.edu/stltransfer/
+  #   image: ./assets/img/cce.png
+
+  # - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
+  #   authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
+  #   conference_short: ArXiv
+  #   pdf: https://arxiv.org/pdf/2306.06192
+  #   # page: https://gamma.umd.edu/stltransfer/
+  #   image: ./assets/img/cce.png
+
+  - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
+    authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
+    conference_short: ArXiv
+    pdf: https://arxiv.org/pdf/2306.06192
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/cce.png
+
