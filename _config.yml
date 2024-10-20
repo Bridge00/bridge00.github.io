@@ -21,8 +21,8 @@ twitter: https://x.com/BhrijPatel_PhD
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/headshot-removebg-preview.png
-favicon: ./assets/img/rocket.avif
-favicon_dark: ./assets/img/rocket.avif
+favicon: ./assets/img/rocket.png
+favicon_dark: ./assets/img/rocket.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
