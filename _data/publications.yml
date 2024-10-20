@@ -16,7 +16,7 @@ main:
 
     - title: "In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction"
     authors: <strong>Caroline Wang*</strong>, <strong>Bin Han*</strong>, Bhrij Patel, Cynthia Rudin
-    conference_short: ICML '23
+    conference_short: JoQC '22
     conference: Journal of Quantitative Criminology <strong>(JoQC)</strong>, 2022.
     image: ./assets/img/recid.png
     pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
