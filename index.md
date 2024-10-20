@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## print("Hello World!")
+## Hello!
 
 
 I am Bhrij ("Bridge") Patel. I am a third-year CS PhD student at the UMD - College Park.
