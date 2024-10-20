@@ -13,6 +13,13 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     image: ./assets/img/mac.png
     pdf: https://icml.cc/virtual/2023/poster/23589
+
+    - title: "In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction"
+    authors: <strong>Caroline Wang*</strong>, <strong>Bin Han*</strong>, Bhrij Patel, Cynthia Rudin
+    conference_short: ICML '23
+    conference: Journal of Quantitative Criminology <strong>(JoQC)</strong>, 2022.
+    image: ./assets/img/recid.png
+    pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
   # - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
   #   authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
   #   conference_short: IROS '24
