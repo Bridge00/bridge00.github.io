@@ -14,7 +14,7 @@ My current research interests:
   <li>Reinforcement Learning</li>
   <li>Sample Efficient Learning with Markovian Data</li>
   <li>Optimization & Alignment for AI Systems</li>
-  <li>LLM for Planning</li>
+  <li>LLM-based Evaluators</li>
 </ul>
 
 <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer 2025 in the areas of Machine Learning, Reinforcement Learning, or LLM Systems. Feel free to reach out!</p>
