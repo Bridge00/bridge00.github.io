@@ -5,6 +5,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     image: ./assets/img/global_mac.png
     pdf: https://icml.cc/virtual/2024/poster/34664
+    code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/blob/main/README.md
     notes: Poster
 
   - title: "Beyond Exponentially Fast Mixing in Average-Reward Reinforcement Learning via Multi-Level Monte Carlo Actor-Critic"
