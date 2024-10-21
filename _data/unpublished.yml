@@ -19,6 +19,7 @@ main:
     pdf: https://arxiv.org/pdf/2406.10918
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/mele.png
+    code: https://github.com/Bridge00/mele
   # - title: Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
   #   authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
   #   conference_short: ArXiv
@@ -39,4 +40,5 @@ main:
     pdf: https://arxiv.org/pdf/2306.06192
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/cce.png
+    code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
 
