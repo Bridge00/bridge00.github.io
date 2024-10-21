@@ -12,6 +12,7 @@ main:
     pdf: https://arxiv.org/pdf/2410.03131
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/aime.png
+    code: https://github.com/Bridge00/aime/
 
   - title: Multi-LLM QA with Embodied Exploration
     authors: <strong>Bhrij Patel</strong>, Vishnu Sashank Dorbala, Amrit Singh Bedi, Dinesh Manocha
@@ -33,6 +34,7 @@ main:
     pdf: https://arxiv.org/pdf/2403.09905
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/pobj.png
+    code: https://github.com/Bridge00/PObjectNav
 
   - title: CCE - Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
     authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
