@@ -10,10 +10,10 @@ I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) 
 
 My current research interests:
 <ul>
-  <li>Reinforcement Learning</li>
-  <li>Sample Efficient Statistical Learning Theory with Markovian Data</li>
   <li>Optimization & Alignment for AI Systems</li>
   <li>LLM-based Evaluators</li>
+  <li>Reinforcement Learning</li>
+  <li>Sample Efficient Statistical Learning Theory with Markovian Data</li>
 </ul>
 
 <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer 2025 in the areas of Machine Learning, Reinforcement Learning, or LLM Systems. Feel free to reach out!</p>
