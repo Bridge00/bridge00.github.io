@@ -24,6 +24,7 @@ main:
     image: ./assets/img/recid.png
     code: https://github.com/BeanHam/2019-interpretable-machine-learning
     pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
+    video: https://www.youtube.com/watch?v=4yltcVt3Z8M
   # - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
   #   authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
   #   conference_short: IROS '24
