@@ -13,6 +13,7 @@ main:
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/aime.png
     code: https://github.com/Bridge00/aime/
+    post: https://x.com/BhrijPatel_PhD/status/1850485343633469698
 
   - title: Multi-LLM QA with Embodied Exploration
     authors: <strong>Bhrij Patel</strong>, Vishnu Sashank Dorbala, Amrit Singh Bedi, Dinesh Manocha
