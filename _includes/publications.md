@@ -27,8 +27,8 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.post %} 
-      <a href="{{ link.post }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% if link.thread %} 
+      <a href="{{ link.thread }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thread</a>
       {% endif %}
       {% if link.video %} 
       <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
@@ -84,8 +84,8 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.post %} 
-      <a href="{{ link.post }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Post</a>
+      {% if link.thread %} 
+      <a href="{{ link.thread }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thread</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
