@@ -17,14 +17,15 @@ main:
     code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
     notes: Poster
 
-  - title: "In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction"
-    authors: <strong>Caroline Wang*</strong>, <strong>Bin Han*</strong>, Bhrij Patel, Cynthia Rudin
-    conference_short: JoQC '22
-    conference: Journal of Quantitative Criminology <strong>(JoQC)</strong>, 2022.
-    image: ./assets/img/recid.png
-    code: https://github.com/BeanHam/2019-interpretable-machine-learning
-    pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
-    video: https://www.youtube.com/watch?v=4yltcVt3Z8M
+  # - title: "In Pursuit of Interpretable, Fair and Accurate Machine Learning for Criminal Recidivism Prediction"
+  #   authors: <strong>Caroline Wang*</strong>, <strong>Bin Han*</strong>, Bhrij Patel, Cynthia Rudin
+  #   conference_short: JoQC '22
+  #   conference: Journal of Quantitative Criminology <strong>(JoQC)</strong>, 2022.
+  #   image: ./assets/img/recid.png
+  #   code: https://github.com/BeanHam/2019-interpretable-machine-learning
+  #   pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
+  #   video: https://www.youtube.com/watch?v=4yltcVt3Z8M
+  
   # - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
   #   authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
   #   conference_short: IROS '24
