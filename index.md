@@ -16,7 +16,7 @@ My current research interests:
   <li>Efficient Statistical Learning with Markovian Data</li>
 </ul>
 
-<p style="color:red;">🔍 I am currently looking for research or industry internships for Summer 2025 in the areas of Machine Learning, Reinforcement Learning, or LLM Systems. Feel free to reach out!</p>
+<p style="color:red;">🔍 I am currently looking for research or industry internships for Spring, Summer, and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, or LLM Systems. Feel free to reach out!</p>
 
 ## Education
 
