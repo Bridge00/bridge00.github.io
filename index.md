@@ -12,6 +12,7 @@ My current research interests:
 <ul>
   <li>Optimization & Alignment for AI Systems, including Multi-Agent Systems</li>
   <li>LLM-based Evaluators, particularly for Self-Improving Systems</li>
+  <li>Policy learning with sparse rewards</li>
   <li>Reinforcement Learning</li>
   <li>Efficient Statistical Learning with Markovian Data</li>
 </ul>
