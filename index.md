@@ -11,7 +11,7 @@ I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) 
 My current research interests:
 <ul>
   <li>Optimization & Alignment for AI Systems, including Multi-Agent Systems</li>
-  <li>LLM-based Evaluators, particularly for self-improving systems</li>
+  <li>LLM-based Evaluators, particularly for Self-Improving Systems</li>
   <li>Reinforcement Learning</li>
   <li>Efficient Statistical Learning with Markovian Data</li>
 </ul>
