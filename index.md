@@ -10,10 +10,9 @@ I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) 
 
 My current research interests:
 <ul>
-  <li>Optimization & Alignment for AI Systems, including Multi-Agent Systems</li>
+  <li>Alignment and Personalization for AI Systems, including Multi-Agent Systems</li>
   <li>LLM-based Evaluators, particularly for Test-time Refinement</li>
-  <li>Policy Learning methods with Sparse Rewards</li>
-  <li>Sample Efficient Reinforcement Learning</li>
+  <li>Sample Efficient Optimization for Reinforcement Learning with Sparse Rewards</li>
 </ul>
 
 <p style="color:red;">🔍 I am currently looking for research or industry internships for Spring, Summer, and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p>
