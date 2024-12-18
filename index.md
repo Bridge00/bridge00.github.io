@@ -15,7 +15,9 @@ My current research interests:
   <li>Sample Efficient Optimization for Reinforcement Learning with Sparse Rewards</li>
 </ul>
 
-<p style="color:red;">🔍 I am currently looking for research or industry internships for Spring, Summer, and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p>
+<p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p>
+
+<p style="color:blue;">I'll be interning at Emergence AI for Spring 2025, working on LLM agents for enterprise workflows!</p>
 
 ## Education
 
