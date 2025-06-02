@@ -5,6 +5,14 @@ main:
   #   conference_short: Ongoing
   #   image: ./assets/img/vrdriving_teaser.png 
 
+  - title: Learning API Functionality from Demosntrations for Tool-based Agents
+    authors: <strong>Bhrij Patel</strong>, Ashish Jagmohan, Aditya Vempaty
+    conference_short: ArXiv
+    pdf: https://arxiv.org/abs/2505.24197
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/api.png
+    # code: https://github.com/Bridge00/aime/
+    # thread: https://x.com/BhrijPatel_PhD/status/1850485343633469698
 
   - title: AIME - AI System Optimization via Multiple LLM Evalautors 
     authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Wesley A. Suttle, Mendgi Wang, Amrit Singh Bedi*, Dinesh Manocha*
