@@ -2,6 +2,7 @@ main:
   - title: Confidence-Controlled Exploration: Efficient Sparse-Reward Policy Learning for Robot Navigation
     authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
     conference_short: IROS '25
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2306.06192
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/cce.png
