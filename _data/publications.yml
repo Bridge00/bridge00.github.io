@@ -6,6 +6,7 @@ main:
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/cce.png
     code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
+    notes: Poster
 
   - title: "Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles"
     authors: <strong>Bhrij Patel</strong>, Wesley A. Suttle, Alec Koppel, Vaneet Aggarwal, Brian M. Sadler, Dinesh Manocha, Amrit Singh Bedi
