@@ -9,6 +9,7 @@ main:
     code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
     notes: Poster
 
+
   - title: "Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles"
     authors: <strong>Bhrij Patel</strong>, Wesley A. Suttle, Alec Koppel, Vaneet Aggarwal, Brian M. Sadler, Dinesh Manocha, Amrit Singh Bedi
     conference_short: ICML '24
@@ -34,7 +35,8 @@ main:
   #   image: ./assets/img/recid.png
   #   code: https://github.com/BeanHam/2019-interpretable-machine-learning
   #   pdf: https://link.springer.com/article/10.1007/s10940-022-09545-w
-  #   video: https://www.youtube.com/watch?v=4yltcVt3Z8M
+  #   video: https://www.youtube.com/watch?v=4yltcVt3
+  Z8M
   
   # - title: "TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety"
   #   authors: Sandeep Thalapanane, Sandip Kumar, Guru Peethambari, Sourang SriHari, <strong>Laura Zheng</strong>, Julio Poveda, Ming C. Lin
