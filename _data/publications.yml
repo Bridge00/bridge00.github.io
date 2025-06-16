@@ -1,4 +1,12 @@
 main:
+  - title: CCE - Sample Efficient Sparse Reward Policy Learning for Robotic Navigation via Confidence-Controlled Exploration
+    authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
+    conference_short: IROS '25
+    pdf: https://arxiv.org/pdf/2306.06192
+    # page: https://gamma.umd.edu/stltransfer/
+    image: ./assets/img/cce.png
+    code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
+
   - title: "Towards Global Optimality for Practical Average Reward Reinforcement Learning without Mixing Time Oracles"
     authors: <strong>Bhrij Patel</strong>, Wesley A. Suttle, Alec Koppel, Vaneet Aggarwal, Brian M. Sadler, Dinesh Manocha, Amrit Singh Bedi
     conference_short: ICML '24
