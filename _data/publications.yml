@@ -1,9 +1,10 @@
 main:
-  - title: "Learning API Functionality from Demosntrations for Tool-based Agents"
+  - title: "Learning API Functionality from In-Context Demonstrations for Tool-based Agents"
     authors: <strong>Bhrij Patel</strong>, Ashish Jagmohan, Aditya Vempaty
     conference_short: EMNLP '25
     conference: Findings of Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.24197
+    code: https://github.com/Bridge00/public_api_dems_emnlp
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/api.png
     #notes: Findings
