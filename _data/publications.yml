@@ -5,6 +5,7 @@ main:
     conference: Findings of Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.24197
     code: https://github.com/Bridge00/public_api_dems_emnlp
+    notes: Poster
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/api.png
     #notes: Findings
