@@ -28,6 +28,9 @@ My current research interests:
 **Ph.D. in Computer Science**, August 2022 - Present <br>
 University of Maryland, College Park <br>
 
+**M.S. in Computer Science**, August 2022 - May 2024 <br>
+University of Maryland, College Park <br>
+
 **B.S. in Computer Science & Math, Minor in Creative Writing**, August 2018 - May 2022<br>
 Duke University <br>
 
