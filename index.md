@@ -19,7 +19,7 @@ My current research interests:
 </ul>
 
 <!-- <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p> -->
-<p style="color:blue;">[June 2025] I started interning at Qualcomm for Summer/Fall 2025, working on agent planning for on-device LLMs!</p>
+<p style="color:blue;">[Oct 2025] Completed my internship at Qualcomm for Summer/Fall 2025, writing a paper on efficient function calling for on-device models!</p>
 
 <p style="color:blue;">[May 2025] Completed my internship at Emergence AI, writing a research paper on learning API functionality from demonstrations for tool-based agents!</p>
 
