@@ -6,9 +6,9 @@ layout: homepage
 
 
 I am Bhrij ("Bridge") Patel. I am a fourth-year CS PhD student at the UMD - College Park.
-I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF). My work focuses on connecting theory and practice for <strong>principled policy learning and alignment with suboptimal feedback signals.</strong> 
-I have also interned at Qualcomm Research and Emergence AI working on tool-based agents.
-Before my PhD, I graduated from Duke University ('22) with a double major in CS and Math and a minor in Creative Writing. During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
+I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF). My work focuses on theory and practice for <strong>reliable, robust reasoning with suboptimal feedback signals.</strong> I am currently interning at AG2 (formerly AutoGen) for LLM-based agents. I have also interned at Qualcomm Research and Emergence AI working on tool-based agents.
+
+I graduated from Duke University ('22). During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
 
 My current research interests:
 <ul>
@@ -19,6 +19,8 @@ My current research interests:
 </ul>
 
 <!-- <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p> -->
+<p style="color:blue;">[Nov 2025] Started my internship at AG2 (formerly AutoGen), working on multi-agent systems!</p>
+
 <p style="color:blue;">[Oct 2025] Completed my internship at Qualcomm for Summer/Fall 2025, writing a paper on efficient function calling for on-device models!</p>
 
 <p style="color:blue;">[May 2025] Completed my internship at Emergence AI, writing a research paper on learning API functionality from demonstrations for tool-based agents!</p>
