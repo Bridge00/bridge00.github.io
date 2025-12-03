@@ -6,14 +6,12 @@ layout: homepage
 
 
 I am Bhrij ("Bridge") Patel. I am a fourth-year CS PhD student at the UMD - College Park.
-I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF). My work focuses on theory and practice for <strong>reliable, robust reasoning with suboptimal feedback signals.</strong> I am currently interning at AG2 (formerly AutoGen) for LLM-based agents. I have also interned at Qualcomm Research and Emergence AI working on tool-based agents.
-
-I graduated from Duke University ('22). During my undergrad, I was advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
+I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) as part of the [GAMMA](https://gamma.umd.edu/) lab and by [Dr. Amrit Singh Bedi](https://sites.google.com/view/amritsinghbedi/home) (UCF). My work focuses on theory and practice for <strong>reliable, robust reasoning with suboptimal feedback signals.</strong> I am currently interning at AG2 (formerly AutoGen) for LLM-based agents. I have also interned at Qualcomm Research and Emergence AI working on tool-based agents. Before my PhD, I graduated from Duke University ('22), advised by [Dr. Cynthia Rudin](https://www.youtube.com/channel/UCFAkntpj2aOBJ1q4o4FhVwQ/featured) in her [Interpretable ML Lab](https://users.cs.duke.edu/~cynthia/).
 
 My current research interests:
 <ul>
   <li>Alignment and Personalization for AI Systems, specifically during Test-Time</li>
-  <li>Planning for LLM-powered Digital and Embodied Agents</li>
+  <li>Multi-step Tasks with Tool-based Agents</li>
   <li>LLM-based Evaluators for Prompt Optimization</li>
   <li>Sample Efficient Optimization for Reinforcement Learning with Sparse Rewards</li>
 </ul>
