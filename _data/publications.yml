@@ -2,7 +2,7 @@ main:
   - title: "Dynamic Tool Dependency Retrieval for Efficient Function Calling"
     authors: <strong>Bhrij Patel*</strong>, Davide Belli*, Amir Jalilirad, Maximilian Arnold, Aleksandr Ermolov, Bence Major
     conference_short: Frontier IR@AAAi '26
-    conference: Workshop on New Frontiers in IR@ AAAI <strong>(FrontiersIR@AAAI)</strong>, 2026.
+    conference: Workshop on New Frontiers in IR@ AAAI, 2026.
     pdf: https://arxiv.org/abs/2512.17052
     notes: Oral
     image: ./assets/img/dtdr.png
