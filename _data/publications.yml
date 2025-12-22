@@ -5,6 +5,7 @@ main:
     conference: Frontier IR@ AAAI <strong>(Frontier IR@ AAAI)</strong>, 2026.
     pdf: https://arxiv.org/abs/2512.17052
     notes: Poster
+    image: ./assets/img/dtdr.png
   - title: "Learning API Functionality from In-Context Demonstrations for Tool-based Agents"
     authors: <strong>Bhrij Patel</strong>, Ashish Jagmohan, Aditya Vempaty
     conference_short: EMNLP '25
