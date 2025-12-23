@@ -4,7 +4,7 @@ main:
     conference_short: Frontier IR@AAAi '26
     conference: Workshop on New Frontiers in Information Retrieval @ AAAI, 2026.
     pdf: https://arxiv.org/abs/2512.17052
-    notes: Oral, Top 15%
+    notes: Oral
     image: ./assets/img/dtdr.png
   - title: "Learning API Functionality from In-Context Demonstrations for Tool-based Agents"
     authors: <strong>Bhrij Patel</strong>, Ashish Jagmohan, Aditya Vempaty
