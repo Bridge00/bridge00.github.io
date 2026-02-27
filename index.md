@@ -18,6 +18,19 @@ My current research interests:
 </ul>
 
 <!-- <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p> -->
+<style>
+.news-container {
+  max-height: 100px;
+  overflow-y: auto;
+  border: 1px solid #e5e5e5;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: #fcfcfc;
+}
+</style>
+
+## News
 <div class="news-container">
 
 <p style="color:blue;">[Nov 2025] Started my internship at AG2 (formerly AutoGen), working on multi-agent systems!</p>
