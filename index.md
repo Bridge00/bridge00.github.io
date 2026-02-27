@@ -23,6 +23,10 @@ My current research interests:
 
 <p style="color:blue;">[Oct 2025] Completed my internship at Qualcomm for Summer/Fall 2025, writing a paper on efficient function calling for on-device models!</p>
 
+<p style="color:blue;">[Aug 2025] Emergence AI internship paper accepted to EMNLP (Findings) 2025!</p>
+
+<p style="color:blue;">[June 2025] Paper accepted to IROS 2025!</p>
+
 <p style="color:blue;">[May 2025] Completed my internship at Emergence AI, writing a research paper on learning API functionality from demonstrations for tool-based agents!</p>
 
 </div>
