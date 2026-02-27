@@ -20,7 +20,7 @@ My current research interests:
 <!-- <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p> -->
 <style>
 .news-container {
-  max-height: 100px;
+  max-height: 200px;
   overflow-y: auto;
   border: 1px solid #e5e5e5;
   padding: 15px;
