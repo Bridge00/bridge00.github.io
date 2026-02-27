@@ -182,6 +182,23 @@ papertitle {
 
 }
 
+.news-container {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #e5e5e5;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  background-color: #fcfcfc;
+}
+
+@media (prefers-color-scheme: dark) {
+  .news-container {
+    border-color: #444;
+    background-color: #252630;
+  }
+}
+
 
   .image {
     border-radius: 0.35em;

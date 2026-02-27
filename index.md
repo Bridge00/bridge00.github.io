@@ -12,16 +12,20 @@ My current research interests:
 <ul>
   <li>Alignment and Personalization for AI Systems, specifically during Test-Time</li>
   <li>Multi-step Tasks with Tool-based Agents</li>
-  <li>LLM-based Evaluators for Prompt Optimization</li>
+  <li>LLM-based Evaluators and Reward Modeling</li>
   <li>Sample Efficient Optimization for Reinforcement Learning with Sparse Rewards</li>
 </ul>
 
 <!-- <p style="color:red;">🔍 I am currently looking for research or industry internships for Summer and Fall 2025 in the areas of Machine Learning, Reinforcement Learning, and/or LLM Systems. Feel free to reach out!</p> -->
+<div class="news-container">
+
 <p style="color:blue;">[Nov 2025] Started my internship at AG2 (formerly AutoGen), working on multi-agent systems!</p>
 
 <p style="color:blue;">[Oct 2025] Completed my internship at Qualcomm for Summer/Fall 2025, writing a paper on efficient function calling for on-device models!</p>
 
 <p style="color:blue;">[May 2025] Completed my internship at Emergence AI, writing a research paper on learning API functionality from demonstrations for tool-based agents!</p>
+
+</div>
 
 ## Education
 
