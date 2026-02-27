@@ -10,7 +10,7 @@ I am co-advised by [Dr. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) 
 
 My current research interests:
 <ul>
-  <li>Alignment and Personalization for AI Systems, specifically during Test-Time</li>
+  <li>Test-Time Alignment and Personalization for AI Systems</li>
   <li>Multi-step Tasks with Tool-based Agents</li>
   <li>LLM-based Evaluators and Reward Modeling</li>
   <li>Sample Efficient Optimization for Reinforcement Learning with Sparse Rewards</li>
