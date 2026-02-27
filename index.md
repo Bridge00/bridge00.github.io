@@ -35,6 +35,8 @@ My current research interests:
 
 <p style="color:blue;">[Nov 2025] Started my internship at AG2 (formerly AutoGen), working on multi-agent systems!</p>
 
+<p style="color:blue;">[Dec 2025] Qualcomm internship paper accepted to AAAI 2026 workshop!</p>
+
 <p style="color:blue;">[Oct 2025] Completed my internship at Qualcomm for Summer/Fall 2025, writing a paper on efficient function calling for on-device models!</p>
 
 <p style="color:blue;">[Aug 2025] Emergence AI internship paper accepted to EMNLP (Findings) 2025!</p>
