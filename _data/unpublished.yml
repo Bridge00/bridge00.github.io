@@ -14,14 +14,14 @@ main:
   #   # code: https://github.com/Bridge00/aime/
   #   # thread: https://x.com/BhrijPatel_PhD/status/1850485343633469698
 
-  - title: AIME - AI System Optimization via Multiple LLM Evalautors 
-    authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Wesley A. Suttle, Mendgi Wang, Amrit Singh Bedi*, Dinesh Manocha*
+  - title: Code Comprehension then Auditing for Unsupervised LLM Evaluation 
+    authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Mengdi Wang, Amrit Singh Bedi*, Dinesh Manocha*
     conference_short: ArXiv
     pdf: https://arxiv.org/pdf/2410.03131
     # page: https://gamma.umd.edu/stltransfer/
-    image: ./assets/img/aime.png
-    code: https://github.com/Bridge00/aime/
-    thread: https://x.com/BhrijPatel_PhD/status/1850485343633469698
+    image: ./assets/img/cocoa.png
+    # code: https://github.com/Bridge00/aime/
+   # thread: https://x.com/BhrijPatel_PhD/status/1850485343633469698
 
   - title: Multi-LLM QA with Embodied Exploration
     authors: <strong>Bhrij Patel</strong>, Vishnu Sashank Dorbala, Amrit Singh Bedi, Dinesh Manocha
