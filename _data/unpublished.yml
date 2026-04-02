@@ -15,7 +15,7 @@ main:
   #   # thread: https://x.com/BhrijPatel_PhD/status/1850485343633469698
 
   - title: Code Comprehension then Auditing for Unsupervised LLM Evaluation 
-    authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Mengdi Wang, Amrit Singh Bedi*, Dinesh Manocha*
+    authors: <strong>Bhrij Patel</strong>, Souradip Chakraborty, Mengdi Wang, Dinesh Manocha, Amrit Singh Bedi
     conference_short: ArXiv
     pdf: https://arxiv.org/pdf/2410.03131
     # page: https://gamma.umd.edu/stltransfer/
