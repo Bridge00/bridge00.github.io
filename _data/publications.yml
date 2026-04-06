@@ -2,7 +2,7 @@ main:
   - title: "Dynamic Tool Dependency Retrieval for Efficient Function Calling"
     authors: <strong>Bhrij Patel*</strong>, Davide Belli*, Amir Jalilirad, Maximilian Arnold, Aleksandr Ermolov, Bence Major
     conference_short: ACL '26
-    conference: Findings of the Association for Computational Linguistics 2026; Workshop on New Frontiers in Information Retrieval @ AAAI, 2026.
+    conference: Findings of the Association for Computational Linguistics (ACL), 2026; Workshop on New Frontiers in Information Retrieval @ AAAI, 2026.
     pdf: https://arxiv.org/abs/2512.17052
     notes: Conference- Poster; Workshop- Oral
     image: ./assets/img/dtdr.png
