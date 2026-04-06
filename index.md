@@ -33,6 +33,8 @@ My current research interests:
 ## News
 <div class="news-container">
 
+<p style="color:blue;">[April 2026] Qualcomm internship paper accepted to ACL (Findings) 2026!</p>
+
 <p style="color:blue;">[Nov 2025] Started my internship at AG2 (formerly AutoGen), working on multi-agent systems!</p>
 
 <p style="color:blue;">[Dec 2025] Qualcomm internship paper accepted to AAAI 2026 workshop!</p>
