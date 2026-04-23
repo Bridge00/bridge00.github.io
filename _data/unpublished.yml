@@ -39,8 +39,8 @@ main:
 
   - title: Personalized Embodied Navigation for Portable Object Finding
     authors:  Vishnu Sashank Dorbala*, <strong>Bhrij Patel*</strong>, Amrit Singh Bedi, Dinesh Manocha
-    #conference_short: ArXiv
-    pdf: https://drive.google.com/file/d/1KBU3CkBUL2k0dkM84iHaftwF2MGgXd7Z/view?usp=sharing
+    conference_short: ArXiv
+    pdf: https://arxiv.org/abs/2403.09905 #https://drive.google.com/file/d/1KBU3CkBUL2k0dkM84iHaftwF2MGgXd7Z/view?usp=sharing
     # page: https://gamma.umd.edu/stltransfer/
     image: ./assets/img/pobj.png
     code: https://github.com/Bridge00/PObjectNav
