@@ -23,7 +23,7 @@ main:
     authors: <strong>Bhrij Patel</strong>, Kasun Weerakoon, Wesley A. Suttle, Alec Koppel, Brian M. Sadler, Tianyi Zhou, Amrit Singh Bedi, Dinesh Manocha
     conference_short: IROS '25
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2306.06192
+    pdf: https://ieeexplore.ieee.org/abstract/document/11246149
     image: ./assets/img/cce.png
     code: https://github.com/Bridge00/mixing_rate_reinforcement_learning/
     notes: Poster
